@@ -1,0 +1,307 @@
+{
+  "keys": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js",
+  "log": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js",
+  "security": {
+    "csrf": {
+      "enable": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js",
+      "useSession": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js",
+    "allowMethods": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js"
+  },
+  "mysql": {
+    "client": {
+      "host": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js",
+      "port": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js",
+      "user": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js",
+      "password": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js",
+      "database": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js"
+    },
+    "default": {
+      "database": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-mysql\\config\\config.default.js",
+      "connectionLimit": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-mysql\\config\\config.default.js"
+    },
+    "app": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-mysql\\config\\config.default.js",
+    "agent": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-mysql\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js",
+    "dir": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js",
+    "autoFields": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "questionsRootPath": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js",
+  "answersRootPath": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js",
+  "whiteList": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js",
+  "identityWhiteList": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js",
+  "loginWhiteList": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js",
+  "alinode": {
+    "appid": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js",
+    "secret": "C:\\Users\\l\\Desktop\\egg-exam\\config\\config.default.js",
+    "enable": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-alinode\\config\\config.default.js",
+    "server": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-alinode\\config\\config.default.js",
+    "cmddir": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-alinode\\config\\config.default.js",
+    "logdir": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-alinode\\config\\config.default.js",
+    "error_log": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-alinode\\config\\config.default.js",
+    "packages": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-alinode\\config\\config.default.js",
+    "reconnectDelay": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-alinode\\config\\config.default.js",
+    "heartbeatInterval": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-alinode\\config\\config.default.js",
+    "reportInterval": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-alinode\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "view": {
+    "root": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "validate": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg-validate\\config\\config.default.js",
+  "env": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+  "name": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "version": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "description": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "main": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "test": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "start": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "stop": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "license": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "egg-alinode": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "egg-mysql": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "jsonwebtoken": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "markdown-it": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "monaco-editor": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "node-xlsx": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "strict": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "depth": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "env": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "level": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "logging": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "port": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "C:\\Users\\l\\Desktop\\egg-exam\\node_modules\\egg\\config\\config.default.js"
+}

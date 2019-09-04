@@ -1,0 +1,10 @@
+2019-03-04 01:54:20,521 ERROR 5112 nodejs.ClusterClientNoResponseError: client no response in 10810726ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 5112
+hostname: LAPTOP-QLQ71POJ
+

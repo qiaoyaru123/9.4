@@ -1,0 +1,20 @@
+2019-03-03 22:50:29,002 INFO 7520 [egg:logger] init all loggers with options: {"dir":"D:\\web\\egg-exam\\logs\\egg-exam","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-exam-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-03 22:50:29,053 INFO 7520 [egg-multipart] file mode enable
+2019-03-03 22:50:29,053 INFO 7520 [egg-multipart] will save temporary files to "C:\\Users\\jason\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg-exam", cleanup job cron: "0 30 4 * * *"
+2019-03-03 22:50:29,053 INFO 7520 [egg-mysql] connecting root@localhost:3306/exam
+2019-03-03 22:50:29,697 INFO 7520 [egg-static] starting static serve /public/ -> D:\web\egg-exam\app\public
+2019-03-03 22:50:29,702 INFO 7520 [egg-security] use methodnoallow middleware
+2019-03-03 22:50:29,704 INFO 7520 [egg-security] use noopen middleware
+2019-03-03 22:50:29,706 INFO 7520 [egg-security] use nosniff middleware
+2019-03-03 22:50:29,707 INFO 7520 [egg-security] use xssProtection middleware
+2019-03-03 22:50:29,708 INFO 7520 [egg-security] use xframe middleware
+2019-03-03 22:50:29,708 INFO 7520 [egg-security] use dta middleware
+2019-03-03 22:50:29,708 INFO 7520 [egg-security] compose 6 middlewares into one security middleware
+2019-03-03 22:50:29,740 INFO 7520 [egg:core] dump config after load, 9ms
+2019-03-03 22:50:29,765 INFO 7520 [egg-watcher:application] watcher start success
+2019-03-03 22:50:29,770 INFO 7520 [egg-mysql] instance[0] status OK, rds currentTime: Sun Mar 03 2019 22:50:29 GMT+0800 (中国标准时间)
+2019-03-03 22:50:29,783 INFO 7520 [egg:core] dump config after ready, 11ms
+2019-03-04 01:54:20,517 WARN 7520 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-03-04 01:54:21,412 INFO 7520 [egg-logrotator] clean all log before 31 days
+2019-03-04 01:54:21,456 INFO 7520 [egg-logrotator] broadcast log-reload
+2019-03-04 01:54:21,456 INFO 7520 [egg-logrotator] rotate files success by DayRotator, files ["D:\\web\\egg-exam\\logs\\egg-exam\\common-error.log -> D:\\web\\egg-exam\\logs\\egg-exam\\common-error.log.2019-03-03","D:\\web\\egg-exam\\logs\\egg-exam\\egg-exam-web.log -> D:\\web\\egg-exam\\logs\\egg-exam\\egg-exam-web.log.2019-03-03","D:\\web\\egg-exam\\logs\\egg-exam\\egg-web.log -> D:\\web\\egg-exam\\logs\\egg-exam\\egg-web.log.2019-03-03","D:\\web\\egg-exam\\logs\\egg-exam\\egg-schedule.log -> D:\\web\\egg-exam\\logs\\egg-exam\\egg-schedule.log.2019-03-03","D:\\web\\egg-exam\\logs\\egg-exam\\egg-agent.log -> D:\\web\\egg-exam\\logs\\egg-exam\\egg-agent.log.2019-03-03"]

@@ -1,0 +1,12 @@
+2019-03-03 22:50:29,052 INFO 7520 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-03 22:50:29,052 INFO 7520 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-03 22:50:29,052 INFO 7520 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-03 22:50:29,796 INFO 5112 [Timer] D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 20370207ms at 2019-03-04 04:30:00.003
+2019-03-03 22:50:29,796 INFO 5112 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js next time will execute after 4170204ms at 2019-03-04 00:00:00.000
+2019-03-03 22:50:29,797 INFO 5112 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 4171203ms at 2019-03-04 00:00:01.000
+2019-03-04 01:54:21,393 INFO 7520 [Job#1551635660516157168858406001] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js executing by app
+2019-03-04 01:54:21,400 INFO 7520 [Job#1551635660519157168881387001] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2019-03-04 01:54:21,413 INFO 7520 [Job#1551635660516157168858406001] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js execute succeed, used 19ms
+2019-03-04 01:54:21,458 INFO 7520 [Job#1551635660519157168881387001] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 57ms
+2019-03-04 01:54:20,518 INFO 5112 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js next time will execute after 79539483ms at 2019-03-05 00:00:00.001
+2019-03-04 01:54:20,520 INFO 5112 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 79540481ms at 2019-03-05 00:00:01.001

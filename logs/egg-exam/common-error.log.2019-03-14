@@ -1,0 +1,56 @@
+2019-03-14 10:44:41,710 ERROR 8364 nodejs.ClusterClientNoResponseError: client no response in 3612922ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 8364
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-14 20:22:18,751 ERROR 12864 [-/192.168.31.200/-/155ms GET /exam/exam/cptie8-5tx7y5] nodejs.TypeError: question_ids.replaceAll is not a function
+    at exports.getQuestions (D:\web\egg-exam\app\sql\exam.js:54:18)
+    at ExamService.getExam (D:\web\egg-exam\app\service\exam\exam.js:128:55)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 12864
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-14 20:23:54,763 ERROR 23208 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 23208
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-14 20:25:57,599 ERROR 23208 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 23208
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-14 23:48:45,675 ERROR 23208 nodejs.ClusterClientNoResponseError: client no response in 10812398ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 23208
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-15 08:23:08,993 ERROR 23208 nodejs.ClusterClientNoResponseError: client no response in 30861394ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 23208
+hostname: LAPTOP-QLQ71POJ
+

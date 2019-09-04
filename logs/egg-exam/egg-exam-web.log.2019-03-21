@@ -1,0 +1,881 @@
+2019-03-15 20:32:29,341 INFO 18856 本次请求的路径为：/e92431ee6d77190c7950.hot-update.json,本次请求的方法是：GET响应总时间为：15
+2019-03-15 20:32:33,503 INFO 18856 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：498
+2019-03-15 20:32:37,867 INFO 18856 本次请求的路径为：/student/login,本次请求的方法是：POST响应总时间为：51
+2019-03-15 20:32:42,638 INFO 18856 本次请求的路径为：/student/login,本次请求的方法是：POST响应总时间为：8
+2019-03-15 20:32:47,122 INFO 18856 本次请求的路径为：/student/login,本次请求的方法是：POST响应总时间为：3
+2019-03-15 20:34:13,772 INFO 18856 本次请求的路径为：/student/login,本次请求的方法是：POST响应总时间为：5
+2019-03-15 20:35:09,269 INFO 18856 本次请求的路径为：/student/login,本次请求的方法是：POST响应总时间为：3
+2019-03-15 20:36:27,407 INFO 31544 本次请求的路径为：/student/login,本次请求的方法是：POST响应总时间为：2456
+2019-03-15 20:36:51,278 INFO 31544 本次请求的路径为：/student/login,本次请求的方法是：POST响应总时间为：224
+2019-03-15 20:37:01,336 INFO 31544 本次请求的路径为：/student/login,本次请求的方法是：POST响应总时间为：1785
+2019-03-15 20:37:34,256 INFO 31544 本次请求的路径为：/student/login,本次请求的方法是：POST响应总时间为：407
+2019-03-15 20:38:33,643 INFO 19428 本次请求的路径为：/student/login,本次请求的方法是：POST响应总时间为：81
+2019-03-15 20:39:45,244 INFO 8220 本次请求的路径为：/student/login,本次请求的方法是：POST响应总时间为：35
+2019-03-15 20:41:06,506 INFO 25704 本次请求的路径为：/student/login,本次请求的方法是：POST响应总时间为：58
+2019-03-15 20:41:06,787 INFO 25704 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：136
+2019-03-15 20:41:06,826 INFO 25704 本次请求的路径为：/exam/unstart/cptie8-5tx7y5,本次请求的方法是：GET响应总时间为：18
+2019-03-15 20:41:36,590 INFO 25704 本次请求的路径为：/exam/student,本次请求的方法是：POST响应总时间为：46
+2019-03-15 20:43:34,830 INFO 25704 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：413
+2019-03-15 20:43:34,966 INFO 25704 本次请求的路径为：/exam/unstart/cptie8-5tx7y5,本次请求的方法是：GET响应总时间为：24
+2019-03-15 20:44:48,828 INFO 25704 本次请求的路径为：/exam/student,本次请求的方法是：POST响应总时间为：28
+2019-03-15 20:46:25,654 INFO 25704 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：148
+2019-03-15 20:46:25,688 INFO 25704 本次请求的路径为：/exam/unstart/cptie8-5tx7y5,本次请求的方法是：GET响应总时间为：10
+2019-03-15 20:47:33,534 INFO 25704 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：343
+2019-03-15 20:47:33,647 INFO 25704 本次请求的路径为：/exam/unstart/cptie8-5tx7y5,本次请求的方法是：GET响应总时间为：17
+2019-03-15 20:48:14,313 INFO 25704 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：45
+2019-03-15 20:48:14,342 INFO 25704 本次请求的路径为：/exam/unstart/cptie8-5tx7y5,本次请求的方法是：GET响应总时间为：7
+2019-03-21 18:57:59,035 INFO 6924 本次请求的路径为：/student/login,本次请求的方法是：POST响应总时间为：81
+2019-03-21 18:58:43,459 ERROR 6924 [-/127.0.0.1/-/19ms GET /exam/unstart/t27znv-gu7azm-qpq9ai-laaf9m] nodejs.TypeError: Cannot read property 'forEach' of undefined
+    at ExamController.show (D:\web\egg-exam\app\controller\exam\exam.js:31:28)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 6924
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-21 19:06:46,505 INFO 19956 本次请求的路径为：/spa/spa/index.html,本次请求的方法是：GET响应总时间为：13
+2019-03-21 19:07:13,781 INFO 19956 本次请求的路径为：/public/spa/spa/login.html,本次请求的方法是：GET响应总时间为：5
+2019-03-21 19:07:13,844 INFO 19956 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css,本次请求的方法是：GET响应总时间为：34
+2019-03-21 19:07:13,851 INFO 19956 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js,本次请求的方法是：GET响应总时间为：17
+2019-03-21 19:07:13,866 INFO 19956 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css,本次请求的方法是：GET响应总时间为：57
+2019-03-21 19:07:13,881 INFO 19956 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js,本次请求的方法是：GET响应总时间为：57
+2019-03-21 19:07:14,253 INFO 19956 本次请求的路径为：/public/spa/manifest.json,本次请求的方法是：GET响应总时间为：8
+2019-03-21 19:07:14,260 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：13
+2019-03-21 19:07:18,580 INFO 19956 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css,本次请求的方法是：GET响应总时间为：2
+2019-03-21 19:07:18,587 INFO 19956 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:07:18,644 INFO 19956 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js.map,本次请求的方法是：GET响应总时间为：7
+2019-03-21 19:07:18,726 INFO 19956 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js.map,本次请求的方法是：GET响应总时间为：101
+2019-03-21 19:07:18,887 INFO 19956 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css.map,本次请求的方法是：GET响应总时间为：5
+2019-03-21 19:07:18,920 INFO 19956 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css.map,本次请求的方法是：GET响应总时间为：54
+2019-03-21 19:07:22,823 INFO 19956 本次请求的路径为：/public/spa/spa/login.html,本次请求的方法是：GET响应总时间为：4
+2019-03-21 19:07:22,898 INFO 19956 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css,本次请求的方法是：GET响应总时间为：2
+2019-03-21 19:07:22,913 INFO 19956 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css,本次请求的方法是：GET响应总时间为：3
+2019-03-21 19:07:22,922 INFO 19956 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js,本次请求的方法是：GET响应总时间为：11
+2019-03-21 19:07:22,935 INFO 19956 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:07:23,470 INFO 19956 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js.map,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:07:23,490 INFO 19956 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js.map,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:07:23,499 INFO 19956 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css.map,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:07:23,503 INFO 19956 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css.map,本次请求的方法是：GET响应总时间为：4
+2019-03-21 19:07:23,580 INFO 19956 本次请求的路径为：/public/spa/manifest.json,本次请求的方法是：GET响应总时间为：0
+2019-03-21 19:07:23,623 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：2
+2019-03-21 19:07:48,089 INFO 19956 本次请求的路径为：/public/spa/spa/login,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:07:48,124 INFO 19956 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:07:48,127 INFO 19956 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css,本次请求的方法是：GET响应总时间为：4
+2019-03-21 19:07:48,132 INFO 19956 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:07:48,135 INFO 19956 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js,本次请求的方法是：GET响应总时间为：4
+2019-03-21 19:07:48,442 INFO 19956 本次请求的路径为：/public/spa/static/js/0.f9fc47ec.chunk.js,本次请求的方法是：GET响应总时间为：14
+2019-03-21 19:07:48,460 INFO 19956 本次请求的路径为：/public/spa/static/js/1.78dfaf45.chunk.js,本次请求的方法是：GET响应总时间为：29
+2019-03-21 19:07:48,470 INFO 19956 本次请求的路径为：/public/spa/static/js/2.f68dc659.chunk.js,本次请求的方法是：GET响应总时间为：35
+2019-03-21 19:07:48,482 INFO 19956 本次请求的路径为：/public/spa/static/css/11.5f728522.chunk.css,本次请求的方法是：GET响应总时间为：29
+2019-03-21 19:07:48,489 INFO 19956 本次请求的路径为：/public/spa/static/js/11.4ab8e5ad.chunk.js,本次请求的方法是：GET响应总时间为：32
+2019-03-21 19:07:48,498 INFO 19956 本次请求的路径为：/public/spa/static/js/39.1541385c.chunk.js,本次请求的方法是：GET响应总时间为：62
+2019-03-21 19:07:48,509 INFO 19956 本次请求的路径为：/public/spa/static/js/7.4d0caaaf.chunk.js,本次请求的方法是：GET响应总时间为：41
+2019-03-21 19:07:48,597 INFO 19956 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js.map,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:07:48,603 INFO 19956 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js.map,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:07:48,635 INFO 19956 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css.map,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:07:48,639 INFO 19956 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css.map,本次请求的方法是：GET响应总时间为：4
+2019-03-21 19:07:48,751 INFO 19956 本次请求的路径为：/public/spa/static/js/0.f9fc47ec.chunk.js.map,本次请求的方法是：GET响应总时间为：9
+2019-03-21 19:07:48,779 INFO 19956 本次请求的路径为：/public/spa/static/js/2.f68dc659.chunk.js.map,本次请求的方法是：GET响应总时间为：36
+2019-03-21 19:07:48,791 INFO 19956 本次请求的路径为：/public/spa/static/js/11.4ab8e5ad.chunk.js.map,本次请求的方法是：GET响应总时间为：46
+2019-03-21 19:07:48,794 INFO 19956 本次请求的路径为：/public/spa/static/js/7.4d0caaaf.chunk.js.map,本次请求的方法是：GET响应总时间为：48
+2019-03-21 19:07:48,800 INFO 19956 本次请求的路径为：/public/spa/static/js/1.78dfaf45.chunk.js.map,本次请求的方法是：GET响应总时间为：56
+2019-03-21 19:07:48,812 INFO 19956 本次请求的路径为：/public/spa/static/css/11.5f728522.chunk.css.map,本次请求的方法是：GET响应总时间为：14
+2019-03-21 19:07:48,871 INFO 19956 本次请求的路径为：/public/spa/static/media/login_wraper.8ab0d297.jpg,本次请求的方法是：GET响应总时间为：11
+2019-03-21 19:07:48,960 INFO 19956 本次请求的路径为：/public/spa/static/js/39.1541385c.chunk.js.map,本次请求的方法是：GET响应总时间为：13
+2019-03-21 19:07:49,067 INFO 19956 本次请求的路径为：/public/spa/manifest.json,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:07:49,070 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:08:39,117 INFO 19956 本次请求的路径为：/user/login,本次请求的方法是：POST响应总时间为：63
+2019-03-21 19:08:39,209 INFO 19956 本次请求的路径为：/public/spa/static/js/3.dc88c541.chunk.js,本次请求的方法是：GET响应总时间为：28
+2019-03-21 19:08:39,226 INFO 19956 本次请求的路径为：/public/spa/static/css/12.d97df8b6.chunk.css,本次请求的方法是：GET响应总时间为：38
+2019-03-21 19:08:39,257 INFO 19956 本次请求的路径为：/public/spa/static/js/13.bc4fbe65.chunk.js,本次请求的方法是：GET响应总时间为：53
+2019-03-21 19:08:39,265 INFO 19956 本次请求的路径为：/public/spa/static/js/12.60cf027f.chunk.js,本次请求的方法是：GET响应总时间为：65
+2019-03-21 19:08:39,365 INFO 19956 本次请求的路径为：/public/spa/static/css/12.d97df8b6.chunk.css.map,本次请求的方法是：GET响应总时间为：10
+2019-03-21 19:08:39,371 INFO 19956 本次请求的路径为：/public/spa/static/js/13.bc4fbe65.chunk.js.map,本次请求的方法是：GET响应总时间为：9
+2019-03-21 19:08:39,382 INFO 19956 本次请求的路径为：/public/spa/static/js/3.dc88c541.chunk.js.map,本次请求的方法是：GET响应总时间为：26
+2019-03-21 19:08:39,435 INFO 19956 本次请求的路径为：/user/userInfo,本次请求的方法是：GET响应总时间为：21
+2019-03-21 19:08:39,436 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：4
+2019-03-21 19:08:39,441 INFO 19956 本次请求的路径为：/public/spa/static/js/12.60cf027f.chunk.js.map,本次请求的方法是：GET响应总时间为：14
+2019-03-21 19:08:39,490 INFO 19956 本次请求的路径为：/user/new?user_id=axg8t2-oroeja,本次请求的方法是：GET响应总时间为：13
+2019-03-21 19:10:00,078 INFO 19956 本次请求的路径为：/public/spa/static/css/25.739f7797.chunk.css,本次请求的方法是：GET响应总时间为：8
+2019-03-21 19:10:00,088 INFO 19956 本次请求的路径为：/public/spa/static/js/6.3b2a2074.chunk.js,本次请求的方法是：GET响应总时间为：11
+2019-03-21 19:10:00,098 INFO 19956 本次请求的路径为：/public/spa/static/js/25.48616416.chunk.js,本次请求的方法是：GET响应总时间为：24
+2019-03-21 19:10:00,105 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：0
+2019-03-21 19:10:00,282 INFO 19956 本次请求的路径为：/exam/examType,本次请求的方法是：GET响应总时间为：11
+2019-03-21 19:10:00,296 INFO 19956 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：21
+2019-03-21 19:10:00,300 INFO 19956 本次请求的路径为：/exam/getQuestionsType,本次请求的方法是：GET响应总时间为：27
+2019-03-21 19:10:30,696 INFO 19956 本次请求的路径为：/exam/exam,本次请求的方法是：POST响应总时间为：36
+2019-03-21 19:10:30,747 INFO 19956 本次请求的路径为：/public/spa/static/js/9.6a792b19.chunk.js,本次请求的方法是：GET响应总时间为：11
+2019-03-21 19:10:30,757 INFO 19956 本次请求的路径为：/public/spa/static/css/34.e78abb77.chunk.css,本次请求的方法是：GET响应总时间为：16
+2019-03-21 19:10:30,763 INFO 19956 本次请求的路径为：/public/spa/static/js/40.04d063e0.chunk.js,本次请求的方法是：GET响应总时间为：21
+2019-03-21 19:10:30,769 INFO 19956 本次请求的路径为：/public/spa/static/js/34.1ae7a3c8.chunk.js,本次请求的方法是：GET响应总时间为：18
+2019-03-21 19:10:30,789 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:10:30,868 INFO 19956 本次请求的路径为：/exam/examType,本次请求的方法是：GET响应总时间为：5
+2019-03-21 19:10:30,879 INFO 19956 本次请求的路径为：/exam/getQuestionsType,本次请求的方法是：GET响应总时间为：14
+2019-03-21 19:10:30,884 INFO 19956 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：18
+2019-03-21 19:10:34,591 INFO 19956 本次请求的路径为：/exam/exam/tm1gj-qw62al,本次请求的方法是：PUT响应总时间为：14
+2019-03-21 19:10:34,617 INFO 19956 本次请求的路径为：/public/spa/static/css/32.b8dbf57e.chunk.css,本次请求的方法是：GET响应总时间为：10
+2019-03-21 19:10:34,624 INFO 19956 本次请求的路径为：/public/spa/static/js/33.334e1c5d.chunk.js,本次请求的方法是：GET响应总时间为：12
+2019-03-21 19:10:34,636 INFO 19956 本次请求的路径为：/public/spa/static/js/32.881db79f.chunk.js,本次请求的方法是：GET响应总时间为：25
+2019-03-21 19:10:34,643 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：0
+2019-03-21 19:10:34,778 INFO 19956 本次请求的路径为：/exam/examType,本次请求的方法是：GET响应总时间为：9
+2019-03-21 19:10:34,790 INFO 19956 本次请求的路径为：/exam/getQuestionsType,本次请求的方法是：GET响应总时间为：19
+2019-03-21 19:10:34,794 INFO 19956 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：22
+2019-03-21 19:10:34,799 INFO 19956 本次请求的路径为：/exam/exam,本次请求的方法是：GET响应总时间为：25
+2019-03-21 19:11:50,892 INFO 19956 本次请求的路径为：/public/spa/static/css/30.2b32bcbc.chunk.css,本次请求的方法是：GET响应总时间为：9
+2019-03-21 19:11:50,901 INFO 19956 本次请求的路径为：/public/spa/static/js/31.0a7da0a0.chunk.js,本次请求的方法是：GET响应总时间为：10
+2019-03-21 19:11:50,914 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:11:50,925 INFO 19956 本次请求的路径为：/public/spa/static/js/30.81e6a22a.chunk.js,本次请求的方法是：GET响应总时间为：39
+2019-03-21 19:11:51,070 INFO 19956 本次请求的路径为：/manger/student/new,本次请求的方法是：GET响应总时间为：33
+2019-03-21 19:11:51,074 INFO 19956 本次请求的路径为：/manger/room,本次请求的方法是：GET响应总时间为：34
+2019-03-21 19:11:51,081 INFO 19956 本次请求的路径为：/manger/student,本次请求的方法是：GET响应总时间为：54
+2019-03-21 19:11:51,091 INFO 19956 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：48
+2019-03-21 19:11:55,056 INFO 19956 本次请求的路径为：/public/spa/static/css/26.2b32bcbc.chunk.css,本次请求的方法是：GET响应总时间为：6
+2019-03-21 19:11:55,074 INFO 19956 本次请求的路径为：/public/spa/static/js/27.c0f3f203.chunk.js,本次请求的方法是：GET响应总时间为：5
+2019-03-21 19:11:55,087 INFO 19956 本次请求的路径为：/public/spa/static/js/26.8d000c58.chunk.js,本次请求的方法是：GET响应总时间为：23
+2019-03-21 19:11:55,093 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：0
+2019-03-21 19:11:55,178 INFO 19956 本次请求的路径为：/manger/grade,本次请求的方法是：GET响应总时间为：7
+2019-03-21 19:11:55,181 INFO 19956 本次请求的路径为：/manger/grade/new,本次请求的方法是：GET响应总时间为：7
+2019-03-21 19:11:55,207 INFO 19956 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：5
+2019-03-21 19:11:55,223 INFO 19956 本次请求的路径为：/manger/room,本次请求的方法是：GET响应总时间为：3
+2019-03-21 19:11:57,886 INFO 19956 本次请求的路径为：/manger/student/new,本次请求的方法是：GET响应总时间为：27
+2019-03-21 19:11:57,892 INFO 19956 本次请求的路径为：/manger/room,本次请求的方法是：GET响应总时间为：30
+2019-03-21 19:11:57,898 INFO 19956 本次请求的路径为：/manger/student,本次请求的方法是：GET响应总时间为：50
+2019-03-21 19:11:57,918 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：9
+2019-03-21 19:11:57,940 INFO 19956 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：74
+2019-03-21 19:12:01,052 INFO 19956 本次请求的路径为：/manger/grade,本次请求的方法是：GET响应总时间为：6
+2019-03-21 19:12:01,060 INFO 19956 本次请求的路径为：/manger/grade/new,本次请求的方法是：GET响应总时间为：12
+2019-03-21 19:12:01,064 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：2
+2019-03-21 19:12:01,082 INFO 19956 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：4
+2019-03-21 19:12:01,099 INFO 19956 本次请求的路径为：/manger/room,本次请求的方法是：GET响应总时间为：2
+2019-03-21 19:12:05,586 INFO 19956 本次请求的路径为：/exam/examType,本次请求的方法是：GET响应总时间为：10
+2019-03-21 19:12:05,599 INFO 19956 本次请求的路径为：/exam/exam,本次请求的方法是：GET响应总时间为：16
+2019-03-21 19:12:05,607 INFO 19956 本次请求的路径为：/exam/getQuestionsType,本次请求的方法是：GET响应总时间为：29
+2019-03-21 19:12:05,610 INFO 19956 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：30
+2019-03-21 19:12:05,614 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：9
+2019-03-21 19:12:12,300 INFO 19956 本次请求的路径为：/manger/student,本次请求的方法是：GET响应总时间为：14
+2019-03-21 19:12:12,312 INFO 19956 本次请求的路径为：/manger/student/new,本次请求的方法是：GET响应总时间为：22
+2019-03-21 19:12:12,315 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：11
+2019-03-21 19:12:12,319 INFO 19956 本次请求的路径为：/manger/room,本次请求的方法是：GET响应总时间为：27
+2019-03-21 19:12:12,329 INFO 19956 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：32
+2019-03-21 19:12:12,943 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：2
+2019-03-21 19:12:12,950 INFO 19956 本次请求的路径为：/manger/grade,本次请求的方法是：GET响应总时间为：14
+2019-03-21 19:12:12,967 INFO 19956 本次请求的路径为：/manger/grade/new,本次请求的方法是：GET响应总时间为：29
+2019-03-21 19:12:13,012 INFO 19956 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：8
+2019-03-21 19:12:13,038 INFO 19956 本次请求的路径为：/manger/room,本次请求的方法是：GET响应总时间为：5
+2019-03-21 19:12:14,803 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:12:17,859 INFO 19956 本次请求的路径为：/manger/student/new,本次请求的方法是：GET响应总时间为：24
+2019-03-21 19:12:17,868 INFO 19956 本次请求的路径为：/manger/student,本次请求的方法是：GET响应总时间为：39
+2019-03-21 19:12:17,886 INFO 19956 本次请求的路径为：/manger/room,本次请求的方法是：GET响应总时间为：44
+2019-03-21 19:12:17,898 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：6
+2019-03-21 19:12:17,915 INFO 19956 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：35
+2019-03-21 19:12:31,576 INFO 19956 本次请求的路径为：/manger/grade,本次请求的方法是：GET响应总时间为：5
+2019-03-21 19:12:31,579 INFO 19956 本次请求的路径为：/manger/grade/new,本次请求的方法是：GET响应总时间为：6
+2019-03-21 19:12:31,581 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：6
+2019-03-21 19:12:31,608 INFO 19956 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：7
+2019-03-21 19:12:31,623 INFO 19956 本次请求的路径为：/manger/room,本次请求的方法是：GET响应总时间为：2
+2019-03-21 19:12:37,500 INFO 19956 本次请求的路径为：/exam/examType,本次请求的方法是：GET响应总时间为：6
+2019-03-21 19:12:37,514 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：2
+2019-03-21 19:12:37,519 INFO 19956 本次请求的路径为：/exam/getQuestionsType,本次请求的方法是：GET响应总时间为：24
+2019-03-21 19:12:37,526 INFO 19956 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：30
+2019-03-21 19:13:09,643 INFO 19956 本次请求的路径为：/exam/exam,本次请求的方法是：POST响应总时间为：23
+2019-03-21 19:13:09,704 INFO 19956 本次请求的路径为：/exam/examType,本次请求的方法是：GET响应总时间为：6
+2019-03-21 19:13:09,721 INFO 19956 本次请求的路径为：/exam/getQuestionsType,本次请求的方法是：GET响应总时间为：20
+2019-03-21 19:13:09,723 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：4
+2019-03-21 19:13:09,727 INFO 19956 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：24
+2019-03-21 19:13:11,835 INFO 19956 本次请求的路径为：/exam/exam/ld6b9e-9gq1c,本次请求的方法是：PUT响应总时间为：11
+2019-03-21 19:13:11,910 INFO 19956 本次请求的路径为：/exam/examType,本次请求的方法是：GET响应总时间为：8
+2019-03-21 19:13:11,921 INFO 19956 本次请求的路径为：/exam/exam,本次请求的方法是：GET响应总时间为：13
+2019-03-21 19:13:11,925 INFO 19956 本次请求的路径为：/exam/getQuestionsType,本次请求的方法是：GET响应总时间为：21
+2019-03-21 19:13:11,928 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：4
+2019-03-21 19:13:11,932 INFO 19956 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：26
+2019-03-21 19:15:38,383 INFO 19956 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:16:41,661 INFO 19956 本次请求的路径为：/student/login,本次请求的方法是：POST响应总时间为：7
+2019-03-21 19:17:09,125 ERROR 19956 [-/127.0.0.1/-/6ms GET /exam/unstart/t27znv-gu7azm-qpq9ai-laaf9m] nodejs.TypeError: Cannot read property 'forEach' of undefined
+    at ExamController.show (D:\web\egg-exam\app\controller\exam\exam.js:31:28)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 19956
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-21 19:18:18,063 ERROR 9340 [-/127.0.0.1/-/28ms GET /exam/unstart/t27znv-gu7azm-qpq9ai-laaf9m] nodejs.TypeError: Cannot read property 'forEach' of undefined
+    at ExamController.show (D:\web\egg-exam\app\controller\exam\exam.js:31:28)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 9340
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-21 19:18:23,813 ERROR 14388 [-/127.0.0.1/-/26ms GET /exam/unstart/t27znv-gu7azm-qpq9ai-laaf9m] nodejs.TypeError: Cannot read property 'forEach' of undefined
+    at ExamController.show (D:\web\egg-exam\app\controller\exam\exam.js:31:28)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 14388
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-21 19:20:48,855 ERROR 17880 [-/127.0.0.1/-/25ms GET /exam/unstart/t27znv-gu7azm-qpq9ai-laaf9m] nodejs.TypeError: Cannot read property 'forEach' of undefined
+    at ExamController.show (D:\web\egg-exam\app\controller\exam\exam.js:32:28)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 17880
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-21 19:21:22,373 ERROR 21620 [-/127.0.0.1/-/31ms GET /exam/unstart/t27znv-gu7azm-qpq9ai-laaf9m] nodejs.TypeError: Cannot read property 'forEach' of undefined
+    at ExamController.show (D:\web\egg-exam\app\controller\exam\exam.js:32:28)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 21620
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-21 19:23:52,069 INFO 21620 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：3
+2019-03-21 19:23:58,702 INFO 21620 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：1
+2019-03-21 19:24:04,627 INFO 21620 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：50
+2019-03-21 19:32:00,527 INFO 2072 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：108
+2019-03-21 19:34:55,142 INFO 5216 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：102
+2019-03-21 19:37:12,963 INFO 2484 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：89
+2019-03-21 19:37:13,856 INFO 2484 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：52
+2019-03-21 19:37:52,736 INFO 7396 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：90
+2019-03-21 19:41:12,723 ERROR 20928 [-/127.0.0.1/-/165ms GET /student/info] nodejs.ReferenceError: padLeftZero is not defined
+    at formatDate (D:\web\egg-exam\app\controller\student\user.js:94:71)
+    at UserController.info (D:\web\egg-exam\app\controller\student\user.js:67:63)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 20928
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-21 19:41:45,017 INFO 14108 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：77
+2019-03-21 19:43:38,416 ERROR 19188 [-/127.0.0.1/-/221ms GET /student/info] nodejs.ReferenceError: formatDate is not defined
+    at UserController.info (D:\web\egg-exam\app\controller\student\user.js:68:51)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 19188
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-21 19:43:47,384 INFO 5036 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：124
+2019-03-21 19:44:06,172 INFO 5036 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：62
+2019-03-21 19:44:06,920 INFO 5036 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：62
+2019-03-21 19:45:21,971 INFO 20452 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：105
+2019-03-21 19:45:25,893 INFO 20452 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：65
+2019-03-21 19:45:27,070 INFO 20452 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：54
+2019-03-21 19:45:27,743 INFO 20452 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：82
+2019-03-21 19:45:28,232 INFO 20452 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：91
+2019-03-21 19:45:28,524 INFO 20452 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：95
+2019-03-21 19:45:28,712 INFO 20452 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：72
+2019-03-21 19:45:28,878 INFO 20452 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：72
+2019-03-21 19:45:52,493 INFO 15776 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：104
+2019-03-21 19:45:53,741 INFO 19148 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：25
+2019-03-21 19:45:54,504 INFO 19148 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：10
+2019-03-21 19:45:55,248 INFO 19148 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：5
+2019-03-21 19:46:21,863 INFO 21680 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：57
+2019-03-21 19:46:57,906 INFO 14360 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：33
+2019-03-21 19:46:58,841 INFO 14360 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：8
+2019-03-21 19:47:06,969 INFO 19144 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：27
+2019-03-21 19:47:29,037 INFO 19144 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：11
+2019-03-21 19:47:32,252 INFO 16764 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：39
+2019-03-21 19:47:33,261 INFO 16764 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：6
+2019-03-21 19:47:41,365 INFO 16764 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：5
+2019-03-21 19:47:42,100 INFO 16764 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：5
+2019-03-21 19:47:48,943 INFO 11824 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：25
+2019-03-21 19:47:49,666 INFO 11824 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：5
+2019-03-21 19:47:50,154 INFO 11824 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：5
+2019-03-21 19:47:50,511 INFO 11824 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：5
+2019-03-21 19:48:10,106 INFO 18292 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：31
+2019-03-21 19:48:10,684 INFO 18292 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：6
+2019-03-21 19:48:11,191 INFO 18292 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：5
+2019-03-21 19:48:11,531 INFO 18292 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：4
+2019-03-21 19:48:30,158 INFO 11868 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：34
+2019-03-21 19:49:25,529 INFO 12968 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：18
+2019-03-21 19:49:26,604 INFO 21596 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：31
+2019-03-21 19:50:03,383 INFO 20532 本次请求的路径为：/exam/unstart/ld6b9e-9gq1c,本次请求的方法是：GET响应总时间为：13
+2019-03-21 19:50:10,938 INFO 20532 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：15
+2019-03-21 19:50:52,977 INFO 20532 本次请求的路径为：/exam/unstart/ld6b9e-9gq1c,本次请求的方法是：GET响应总时间为：60
+2019-03-21 20:03:47,508 INFO 20352 本次请求的路径为：/exam/unstart/ld6b9e-9gq1c,本次请求的方法是：GET响应总时间为：75
+2019-03-21 20:04:36,486 INFO 20352 本次请求的路径为：/,本次请求的方法是：GET响应总时间为：1
+2019-03-21 20:04:52,005 INFO 20352 本次请求的路径为：/public/student,本次请求的方法是：GET响应总时间为：3
+2019-03-21 20:04:56,468 INFO 20352 本次请求的路径为：/public/student/index.html,本次请求的方法是：GET响应总时间为：12
+2019-03-21 20:05:16,021 INFO 20352 本次请求的路径为：/student/login,本次请求的方法是：POST响应总时间为：54
+2019-03-21 20:05:20,059 INFO 20352 本次请求的路径为：/student/login,本次请求的方法是：POST响应总时间为：6
+2019-03-21 20:05:37,459 INFO 20352 本次请求的路径为：/student/login,本次请求的方法是：POST响应总时间为：8
+2019-03-21 20:05:37,954 INFO 20352 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：22
+2019-03-21 20:05:44,457 INFO 20352 本次请求的路径为：/public/student/index.html,本次请求的方法是：GET响应总时间为：2
+2019-03-21 20:05:45,581 INFO 20352 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：5
+2019-03-21 20:05:45,684 INFO 20352 本次请求的路径为：/favicon.ico,本次请求的方法是：GET响应总时间为：0
+2019-03-21 20:05:45,887 INFO 20352 本次请求的路径为：/public/student/index.html,本次请求的方法是：GET响应总时间为：1
+2019-03-21 20:05:46,339 INFO 20352 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：8
+2019-03-21 20:05:46,469 INFO 20352 本次请求的路径为：/favicon.ico,本次请求的方法是：GET响应总时间为：1
+2019-03-21 20:06:47,410 INFO 20352 本次请求的路径为：/exam/unstart/ld6b9e-9gq1c,本次请求的方法是：GET响应总时间为：41
+2019-03-21 20:06:53,519 INFO 14292 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：57
+2019-03-21 20:06:58,813 INFO 14292 本次请求的路径为：/student/info,本次请求的方法是：GET响应总时间为：20
+2019-03-21 21:28:26,775 INFO 16764 本次请求的路径为：/exam/examType,本次请求的方法是：GET响应总时间为：38
+2019-03-21 21:28:26,792 INFO 16764 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：25
+2019-03-21 21:28:26,815 INFO 16764 本次请求的路径为：/exam/getQuestionsType,本次请求的方法是：GET响应总时间为：57
+2019-03-21 21:28:26,818 INFO 16764 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：54
+2019-03-21 21:28:33,811 INFO 16764 本次请求的路径为：/exam/examType,本次请求的方法是：GET响应总时间为：4
+2019-03-21 21:28:33,838 INFO 16764 本次请求的路径为：/exam/getQuestionsType,本次请求的方法是：GET响应总时间为：22
+2019-03-21 21:28:33,843 INFO 16764 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：25
+2019-03-21 21:28:33,849 INFO 16764 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：9
+2019-03-21 21:28:33,856 INFO 16764 本次请求的路径为：/exam/exam,本次请求的方法是：GET响应总时间为：24
+2019-03-21 21:28:42,283 INFO 16764 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css,本次请求的方法是：GET响应总时间为：7
+2019-03-21 21:28:42,291 INFO 16764 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:28:42,296 INFO 16764 本次请求的路径为：/public/spa/static/css/11.5f728522.chunk.css,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:28:42,304 INFO 16764 本次请求的路径为：/public/spa/static/css/12.d97df8b6.chunk.css,本次请求的方法是：GET响应总时间为：14
+2019-03-21 21:28:42,307 INFO 16764 本次请求的路径为：/public/spa/static/css/32.b8dbf57e.chunk.css,本次请求的方法是：GET响应总时间为：13
+2019-03-21 21:28:42,312 INFO 16764 本次请求的路径为：/public/spa/static/css/25.739f7797.chunk.css,本次请求的方法是：GET响应总时间为：17
+2019-03-21 21:28:42,318 INFO 16764 本次请求的路径为：/public/spa/static/css/34.e78abb77.chunk.css,本次请求的方法是：GET响应总时间为：15
+2019-03-21 21:28:42,321 INFO 16764 本次请求的路径为：/public/spa/static/css/30.2b32bcbc.chunk.css,本次请求的方法是：GET响应总时间为：11
+2019-03-21 21:28:42,324 INFO 16764 本次请求的路径为：/public/spa/static/css/26.2b32bcbc.chunk.css,本次请求的方法是：GET响应总时间为：14
+2019-03-21 21:28:42,364 INFO 16764 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js.map,本次请求的方法是：GET响应总时间为：17
+2019-03-21 21:28:42,374 INFO 16764 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js.map,本次请求的方法是：GET响应总时间为：12
+2019-03-21 21:28:42,377 INFO 16764 本次请求的路径为：/public/spa/static/js/0.f9fc47ec.chunk.js.map,本次请求的方法是：GET响应总时间为：14
+2019-03-21 21:28:42,379 INFO 16764 本次请求的路径为：/public/spa/static/js/11.4ab8e5ad.chunk.js.map,本次请求的方法是：GET响应总时间为：16
+2019-03-21 21:28:42,383 INFO 16764 本次请求的路径为：/public/spa/static/js/2.f68dc659.chunk.js.map,本次请求的方法是：GET响应总时间为：20
+2019-03-21 21:28:42,386 INFO 16764 本次请求的路径为：/public/spa/static/js/1.78dfaf45.chunk.js.map,本次请求的方法是：GET响应总时间为：22
+2019-03-21 21:28:42,400 INFO 16764 本次请求的路径为：/public/spa/static/js/7.4d0caaaf.chunk.js.map,本次请求的方法是：GET响应总时间为：17
+2019-03-21 21:28:42,403 INFO 16764 本次请求的路径为：/public/spa/static/js/39.1541385c.chunk.js.map,本次请求的方法是：GET响应总时间为：14
+2019-03-21 21:28:42,408 INFO 16764 本次请求的路径为：/public/spa/static/js/3.dc88c541.chunk.js.map,本次请求的方法是：GET响应总时间为：19
+2019-03-21 21:28:42,410 INFO 16764 本次请求的路径为：/public/spa/static/js/13.bc4fbe65.chunk.js.map,本次请求的方法是：GET响应总时间为：14
+2019-03-21 21:28:42,434 INFO 16764 本次请求的路径为：/public/spa/static/js/12.60cf027f.chunk.js.map,本次请求的方法是：GET响应总时间为：28
+2019-03-21 21:28:42,443 INFO 16764 本次请求的路径为：/public/spa/static/js/6.3b2a2074.chunk.js.map,本次请求的方法是：GET响应总时间为：45
+2019-03-21 21:28:42,452 INFO 16764 本次请求的路径为：/public/spa/static/js/34.1ae7a3c8.chunk.js.map,本次请求的方法是：GET响应总时间为：20
+2019-03-21 21:28:42,474 INFO 16764 本次请求的路径为：/public/spa/static/js/40.04d063e0.chunk.js.map,本次请求的方法是：GET响应总时间为：36
+2019-03-21 21:28:42,477 INFO 16764 本次请求的路径为：/public/spa/static/js/33.334e1c5d.chunk.js.map,本次请求的方法是：GET响应总时间为：29
+2019-03-21 21:28:42,483 INFO 16764 本次请求的路径为：/public/spa/static/js/9.6a792b19.chunk.js.map,本次请求的方法是：GET响应总时间为：70
+2019-03-21 21:28:42,503 INFO 16764 本次请求的路径为：/public/spa/static/js/31.0a7da0a0.chunk.js.map,本次请求的方法是：GET响应总时间为：23
+2019-03-21 21:28:42,535 INFO 16764 本次请求的路径为：/public/spa/static/js/27.c0f3f203.chunk.js.map,本次请求的方法是：GET响应总时间为：22
+2019-03-21 21:28:42,553 INFO 16764 本次请求的路径为：/public/spa/static/js/25.48616416.chunk.js.map,本次请求的方法是：GET响应总时间为：140
+2019-03-21 21:28:42,646 INFO 16764 本次请求的路径为：/public/spa/static/js/32.881db79f.chunk.js.map,本次请求的方法是：GET响应总时间为：191
+2019-03-21 21:28:42,670 INFO 16764 本次请求的路径为：/public/spa/static/js/30.81e6a22a.chunk.js.map,本次请求的方法是：GET响应总时间为：177
+2019-03-21 21:28:42,691 INFO 16764 本次请求的路径为：/public/spa/static/js/26.8d000c58.chunk.js.map,本次请求的方法是：GET响应总时间为：171
+2019-03-21 21:28:42,725 INFO 16764 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css.map,本次请求的方法是：GET响应总时间为：15
+2019-03-21 21:28:42,727 INFO 16764 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css.map,本次请求的方法是：GET响应总时间为：17
+2019-03-21 21:28:42,739 INFO 16764 本次请求的路径为：/public/spa/static/css/11.5f728522.chunk.css.map,本次请求的方法是：GET响应总时间为：9
+2019-03-21 21:28:42,751 INFO 16764 本次请求的路径为：/public/spa/static/css/25.739f7797.chunk.css.map,本次请求的方法是：GET响应总时间为：19
+2019-03-21 21:28:42,765 INFO 16764 本次请求的路径为：/public/spa/static/css/34.e78abb77.chunk.css.map,本次请求的方法是：GET响应总时间为：22
+2019-03-21 21:28:42,771 INFO 16764 本次请求的路径为：/public/spa/static/css/32.b8dbf57e.chunk.css.map,本次请求的方法是：GET响应总时间为：11
+2019-03-21 21:28:42,778 INFO 16764 本次请求的路径为：/public/spa/static/css/30.2b32bcbc.chunk.css.map,本次请求的方法是：GET响应总时间为：4
+2019-03-21 21:28:42,782 INFO 16764 本次请求的路径为：/public/spa/static/css/26.2b32bcbc.chunk.css.map,本次请求的方法是：GET响应总时间为：5
+2019-03-21 21:28:42,788 INFO 16764 本次请求的路径为：/public/spa/static/css/12.d97df8b6.chunk.css.map,本次请求的方法是：GET响应总时间为：3
+2019-03-21 21:30:48,952 INFO 16764 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：3
+2019-03-21 21:30:53,406 INFO 16764 本次请求的路径为：/exam/examType,本次请求的方法是：GET响应总时间为：21
+2019-03-21 21:30:53,445 INFO 16764 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：20
+2019-03-21 21:30:53,451 INFO 16764 本次请求的路径为：/exam/getQuestionsType,本次请求的方法是：GET响应总时间为：32
+2019-03-21 21:30:53,457 INFO 16764 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：3
+2019-03-21 21:30:55,090 INFO 16764 本次请求的路径为：/exam/examType,本次请求的方法是：GET响应总时间为：10
+2019-03-21 21:30:55,129 INFO 16764 本次请求的路径为：/exam/exam,本次请求的方法是：GET响应总时间为：25
+2019-03-21 21:30:55,136 INFO 16764 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：39
+2019-03-21 21:30:55,149 INFO 16764 本次请求的路径为：/exam/getQuestionsType,本次请求的方法是：GET响应总时间为：64
+2019-03-21 21:30:55,163 INFO 16764 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：6
+2019-03-21 21:37:28,644 INFO 8060 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js,本次请求的方法是：GET响应总时间为：17
+2019-03-21 21:37:28,658 INFO 8060 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js,本次请求的方法是：GET响应总时间为：25
+2019-03-21 21:37:29,072 INFO 8060 本次请求的路径为：/public/spa/static/js/0.f9fc47ec.chunk.js,本次请求的方法是：GET响应总时间为：7
+2019-03-21 21:37:29,080 INFO 8060 本次请求的路径为：/public/spa/static/js/1.78dfaf45.chunk.js,本次请求的方法是：GET响应总时间为：13
+2019-03-21 21:37:29,096 INFO 8060 本次请求的路径为：/public/spa/static/js/2.f68dc659.chunk.js,本次请求的方法是：GET响应总时间为：17
+2019-03-21 21:37:29,110 INFO 8060 本次请求的路径为：/public/spa/static/js/3.dc88c541.chunk.js,本次请求的方法是：GET响应总时间为：21
+2019-03-21 21:37:29,116 INFO 8060 本次请求的路径为：/public/spa/static/js/13.bc4fbe65.chunk.js,本次请求的方法是：GET响应总时间为：24
+2019-03-21 21:37:29,126 INFO 8060 本次请求的路径为：/public/spa/static/css/12.d97df8b6.chunk.css,本次请求的方法是：GET响应总时间为：33
+2019-03-21 21:37:29,134 INFO 8060 本次请求的路径为：/public/spa/static/js/12.60cf027f.chunk.js,本次请求的方法是：GET响应总时间为：26
+2019-03-21 21:37:29,139 INFO 8060 本次请求的路径为：/public/spa/static/js/7.4d0caaaf.chunk.js,本次请求的方法是：GET响应总时间为：16
+2019-03-21 21:37:29,245 INFO 8060 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js.map,本次请求的方法是：GET响应总时间为：20
+2019-03-21 21:37:29,257 INFO 8060 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js.map,本次请求的方法是：GET响应总时间为：30
+2019-03-21 21:37:29,329 INFO 8060 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css.map,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:37:29,332 INFO 8060 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css.map,本次请求的方法是：GET响应总时间为：4
+2019-03-21 21:37:29,445 INFO 8060 本次请求的路径为：/public/spa/static/js/0.f9fc47ec.chunk.js.map,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:37:29,452 INFO 8060 本次请求的路径为：/public/spa/static/js/1.78dfaf45.chunk.js.map,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:37:29,456 INFO 8060 本次请求的路径为：/public/spa/static/js/2.f68dc659.chunk.js.map,本次请求的方法是：GET响应总时间为：6
+2019-03-21 21:37:29,467 INFO 8060 本次请求的路径为：/public/spa/static/js/13.bc4fbe65.chunk.js.map,本次请求的方法是：GET响应总时间为：12
+2019-03-21 21:37:29,470 INFO 8060 本次请求的路径为：/public/spa/static/js/7.4d0caaaf.chunk.js.map,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:37:29,474 INFO 8060 本次请求的路径为：/public/spa/static/js/3.dc88c541.chunk.js.map,本次请求的方法是：GET响应总时间为：11
+2019-03-21 21:37:29,477 INFO 8060 本次请求的路径为：/public/spa/static/js/12.60cf027f.chunk.js.map,本次请求的方法是：GET响应总时间为：14
+2019-03-21 21:37:29,515 INFO 8060 本次请求的路径为：/user/userInfo,本次请求的方法是：GET响应总时间为：13
+2019-03-21 21:37:29,566 INFO 8060 本次请求的路径为：/public/spa/manifest.json,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:37:29,570 INFO 8060 本次请求的路径为：/user/new?user_id=axg8t2-oroeja,本次请求的方法是：GET响应总时间为：17
+2019-03-21 21:37:29,585 INFO 8060 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：11
+2019-03-21 21:37:29,616 INFO 8060 本次请求的路径为：/public/spa/static/css/32.b8dbf57e.chunk.css,本次请求的方法是：GET响应总时间为：1
+2019-03-21 21:37:29,625 INFO 8060 本次请求的路径为：/public/spa/static/js/32.881db79f.chunk.js,本次请求的方法是：GET响应总时间为：5
+2019-03-21 21:37:29,629 INFO 8060 本次请求的路径为：/public/spa/static/js/33.334e1c5d.chunk.js,本次请求的方法是：GET响应总时间为：5
+2019-03-21 21:37:29,785 INFO 8060 本次请求的路径为：/exam/examType,本次请求的方法是：GET响应总时间为：9
+2019-03-21 21:37:29,795 ERROR 8060 [-/127.0.0.1/-/12ms GET /exam/exam] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'OFFSET
+            0
+        LIMIT
+            10' at line 11
+            0
+        LIMIT
+            10' at line 11
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+        SELECT
+            *    
+        FROM
+            student,
+            grade,
+            room,
+            user,
+            exam_exam
+        WHERE
+            student.grade_id=grade.grade_id
+            AND
+            room.room_id=grade.room_id
+            AND
+            grade.subject_id=exam_exam.subject_id
+            AND
+            exam_exam.status=0
+            AND
+            exam_exam.user_id=user.user_id
+        OFFSET
+            0
+        LIMIT
+            10
+        
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'OFFSET\n            0\n        LIMIT\n            10' at line 11"
+sqlState: "42000"
+index: 0
+sql: "\n        SELECT\n            *    \n        FROM\n            student,\n            grade,\n            room,\n            user,\n            exam_exam\n        WHERE\n            student.grade_id=grade.grade_id\n            AND\n            room.room_id=grade.room_id\n            AND\n            grade.subject_id=exam_exam.subject_id\n            AND\n            exam_exam.status=0\n            AND\n            exam_exam.user_id=user.user_id\n        OFFSET\n            0\n        LIMIT\n            10\n        "
+name: "ER_PARSE_ERRORError"
+pid: 8060
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-21 21:37:29,950 INFO 8060 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：170
+2019-03-21 21:37:29,954 INFO 8060 本次请求的路径为：/exam/getQuestionsType,本次请求的方法是：GET响应总时间为：175
+2019-03-21 21:37:29,960 INFO 8060 本次请求的路径为：/public/spa/static/css/32.b8dbf57e.chunk.css.map,本次请求的方法是：GET响应总时间为：24
+2019-03-21 21:37:29,967 INFO 8060 本次请求的路径为：/public/spa/static/js/33.334e1c5d.chunk.js.map,本次请求的方法是：GET响应总时间为：31
+2019-03-21 21:37:29,973 INFO 8060 本次请求的路径为：/public/spa/static/js/32.881db79f.chunk.js.map,本次请求的方法是：GET响应总时间为：36
+2019-03-21 21:41:03,565 INFO 23196 本次请求的路径为：/public/spa/spa/main/exam/list,本次请求的方法是：GET响应总时间为：34
+2019-03-21 21:41:03,669 INFO 23196 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css,本次请求的方法是：GET响应总时间为：13
+2019-03-21 21:41:03,675 INFO 23196 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css,本次请求的方法是：GET响应总时间为：17
+2019-03-21 21:41:03,693 INFO 23196 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js,本次请求的方法是：GET响应总时间为：26
+2019-03-21 21:41:03,703 INFO 23196 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js,本次请求的方法是：GET响应总时间为：18
+2019-03-21 21:41:04,034 INFO 23196 本次请求的路径为：/public/spa/static/js/0.f9fc47ec.chunk.js,本次请求的方法是：GET响应总时间为：6
+2019-03-21 21:41:04,048 INFO 23196 本次请求的路径为：/public/spa/static/js/1.78dfaf45.chunk.js,本次请求的方法是：GET响应总时间为：18
+2019-03-21 21:41:04,068 INFO 23196 本次请求的路径为：/public/spa/static/js/2.f68dc659.chunk.js,本次请求的方法是：GET响应总时间为：11
+2019-03-21 21:41:04,075 INFO 23196 本次请求的路径为：/public/spa/static/css/12.d97df8b6.chunk.css,本次请求的方法是：GET响应总时间为：17
+2019-03-21 21:41:04,083 INFO 23196 本次请求的路径为：/public/spa/static/js/3.dc88c541.chunk.js,本次请求的方法是：GET响应总时间为：22
+2019-03-21 21:41:04,096 INFO 23196 本次请求的路径为：/public/spa/static/js/13.bc4fbe65.chunk.js,本次请求的方法是：GET响应总时间为：35
+2019-03-21 21:41:04,108 INFO 23196 本次请求的路径为：/public/spa/static/js/12.60cf027f.chunk.js,本次请求的方法是：GET响应总时间为：42
+2019-03-21 21:41:04,114 INFO 23196 本次请求的路径为：/public/spa/static/js/7.4d0caaaf.chunk.js,本次请求的方法是：GET响应总时间为：21
+2019-03-21 21:41:04,190 INFO 23196 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js.map,本次请求的方法是：GET响应总时间为：9
+2019-03-21 21:41:04,194 INFO 23196 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js.map,本次请求的方法是：GET响应总时间为：13
+2019-03-21 21:41:04,213 INFO 23196 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css.map,本次请求的方法是：GET响应总时间为：7
+2019-03-21 21:41:04,217 INFO 23196 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css.map,本次请求的方法是：GET响应总时间为：5
+2019-03-21 21:41:04,336 INFO 23196 本次请求的路径为：/public/spa/static/css/12.d97df8b6.chunk.css.map,本次请求的方法是：GET响应总时间为：3
+2019-03-21 21:41:04,341 INFO 23196 本次请求的路径为：/public/spa/static/js/0.f9fc47ec.chunk.js.map,本次请求的方法是：GET响应总时间为：6
+2019-03-21 21:41:04,350 INFO 23196 本次请求的路径为：/public/spa/static/js/2.f68dc659.chunk.js.map,本次请求的方法是：GET响应总时间为：15
+2019-03-21 21:41:04,354 INFO 23196 本次请求的路径为：/public/spa/static/js/1.78dfaf45.chunk.js.map,本次请求的方法是：GET响应总时间为：14
+2019-03-21 21:41:04,356 INFO 23196 本次请求的路径为：/public/spa/static/js/13.bc4fbe65.chunk.js.map,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:41:04,359 INFO 23196 本次请求的路径为：/public/spa/static/js/7.4d0caaaf.chunk.js.map,本次请求的方法是：GET响应总时间为：11
+2019-03-21 21:41:04,364 INFO 23196 本次请求的路径为：/public/spa/static/js/3.dc88c541.chunk.js.map,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:41:04,386 INFO 23196 本次请求的路径为：/user/userInfo,本次请求的方法是：GET响应总时间为：17
+2019-03-21 21:41:04,435 INFO 23196 本次请求的路径为：/public/spa/manifest.json,本次请求的方法是：GET响应总时间为：7
+2019-03-21 21:41:04,441 INFO 23196 本次请求的路径为：/user/new?user_id=axg8t2-oroeja,本次请求的方法是：GET响应总时间为：19
+2019-03-21 21:41:04,463 INFO 23196 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：25
+2019-03-21 21:41:04,485 INFO 23196 本次请求的路径为：/public/spa/static/css/32.b8dbf57e.chunk.css,本次请求的方法是：GET响应总时间为：1
+2019-03-21 21:41:04,490 INFO 23196 本次请求的路径为：/public/spa/static/js/32.881db79f.chunk.js,本次请求的方法是：GET响应总时间为：3
+2019-03-21 21:41:04,493 INFO 23196 本次请求的路径为：/public/spa/static/js/33.334e1c5d.chunk.js,本次请求的方法是：GET响应总时间为：6
+2019-03-21 21:41:04,595 INFO 23196 本次请求的路径为：/public/spa/static/js/12.60cf027f.chunk.js.map,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:41:04,633 INFO 23196 本次请求的路径为：/public/spa/static/css/32.b8dbf57e.chunk.css.map,本次请求的方法是：GET响应总时间为：1
+2019-03-21 21:41:04,637 INFO 23196 本次请求的路径为：/public/spa/static/js/33.334e1c5d.chunk.js.map,本次请求的方法是：GET响应总时间为：1
+2019-03-21 21:41:04,666 INFO 23196 本次请求的路径为：/exam/examType,本次请求的方法是：GET响应总时间为：9
+2019-03-21 21:41:04,675 ERROR 23196 [-/127.0.0.1/-/11ms GET /exam/exam] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'OFFSET
+            0
+        LIMIT
+            10' at line 9
+            0
+        LIMIT
+            10' at line 9
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+        SELECT
+            *    
+        FROM
+            grade,
+            room,
+            user,
+            exam_exam
+        WHERE
+            room.room_id=grade.room_id
+            AND
+            grade.subject_id=exam_exam.subject_id
+            AND
+            exam_exam.status=0
+            AND
+            exam_exam.user_id=user.user_id
+        OFFSET
+            0
+        LIMIT
+            10
+        
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'OFFSET\n            0\n        LIMIT\n            10' at line 9"
+sqlState: "42000"
+index: 0
+sql: "\n        SELECT\n            *    \n        FROM\n            grade,\n            room,\n            user,\n            exam_exam\n        WHERE\n            room.room_id=grade.room_id\n            AND\n            grade.subject_id=exam_exam.subject_id\n            AND\n            exam_exam.status=0\n            AND\n            exam_exam.user_id=user.user_id\n        OFFSET\n            0\n        LIMIT\n            10\n        "
+name: "ER_PARSE_ERRORError"
+pid: 23196
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-21 21:41:04,809 INFO 23196 本次请求的路径为：/exam/getQuestionsType,本次请求的方法是：GET响应总时间为：149
+2019-03-21 21:41:04,811 INFO 23196 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：149
+2019-03-21 21:41:04,813 INFO 23196 本次请求的路径为：/public/spa/static/js/32.881db79f.chunk.js.map,本次请求的方法是：GET响应总时间为：12
+2019-03-21 21:42:18,805 INFO 22092 本次请求的路径为：/public/spa/spa/main/exam/list,本次请求的方法是：GET响应总时间为：15
+2019-03-21 21:42:18,869 INFO 22092 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css,本次请求的方法是：GET响应总时间为：10
+2019-03-21 21:42:18,879 INFO 22092 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css,本次请求的方法是：GET响应总时间为：12
+2019-03-21 21:42:18,891 INFO 22092 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js,本次请求的方法是：GET响应总时间为：14
+2019-03-21 21:42:18,895 INFO 22092 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js,本次请求的方法是：GET响应总时间为：17
+2019-03-21 21:42:19,177 INFO 22092 本次请求的路径为：/public/spa/static/js/0.f9fc47ec.chunk.js,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:42:19,184 INFO 22092 本次请求的路径为：/public/spa/static/js/1.78dfaf45.chunk.js,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:42:19,189 INFO 22092 本次请求的路径为：/public/spa/static/js/2.f68dc659.chunk.js,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:42:19,195 INFO 22092 本次请求的路径为：/public/spa/static/js/3.dc88c541.chunk.js,本次请求的方法是：GET响应总时间为：13
+2019-03-21 21:42:19,200 INFO 22092 本次请求的路径为：/public/spa/static/css/12.d97df8b6.chunk.css,本次请求的方法是：GET响应总时间为：17
+2019-03-21 21:42:19,205 INFO 22092 本次请求的路径为：/public/spa/static/js/12.60cf027f.chunk.js,本次请求的方法是：GET响应总时间为：17
+2019-03-21 21:42:19,210 INFO 22092 本次请求的路径为：/public/spa/static/js/13.bc4fbe65.chunk.js,本次请求的方法是：GET响应总时间为：11
+2019-03-21 21:42:19,214 INFO 22092 本次请求的路径为：/public/spa/static/js/7.4d0caaaf.chunk.js,本次请求的方法是：GET响应总时间为：10
+2019-03-21 21:42:19,269 INFO 22092 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js.map,本次请求的方法是：GET响应总时间为：10
+2019-03-21 21:42:19,283 INFO 22092 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js.map,本次请求的方法是：GET响应总时间为：24
+2019-03-21 21:42:19,302 INFO 22092 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css.map,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:42:19,307 INFO 22092 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css.map,本次请求的方法是：GET响应总时间为：4
+2019-03-21 21:42:19,443 INFO 22092 本次请求的路径为：/public/spa/static/js/0.f9fc47ec.chunk.js.map,本次请求的方法是：GET响应总时间为：4
+2019-03-21 21:42:19,447 INFO 22092 本次请求的路径为：/public/spa/static/js/2.f68dc659.chunk.js.map,本次请求的方法是：GET响应总时间为：7
+2019-03-21 21:42:19,454 INFO 22092 本次请求的路径为：/public/spa/static/js/1.78dfaf45.chunk.js.map,本次请求的方法是：GET响应总时间为：12
+2019-03-21 21:42:19,460 INFO 22092 本次请求的路径为：/public/spa/static/js/13.bc4fbe65.chunk.js.map,本次请求的方法是：GET响应总时间为：17
+2019-03-21 21:42:19,463 INFO 22092 本次请求的路径为：/public/spa/static/js/7.4d0caaaf.chunk.js.map,本次请求的方法是：GET响应总时间为：10
+2019-03-21 21:42:19,469 INFO 22092 本次请求的路径为：/public/spa/static/js/3.dc88c541.chunk.js.map,本次请求的方法是：GET响应总时间为：10
+2019-03-21 21:42:19,472 INFO 22092 本次请求的路径为：/public/spa/static/css/12.d97df8b6.chunk.css.map,本次请求的方法是：GET响应总时间为：13
+2019-03-21 21:42:19,500 INFO 22092 本次请求的路径为：/user/userInfo,本次请求的方法是：GET响应总时间为：17
+2019-03-21 21:42:19,544 INFO 22092 本次请求的路径为：/user/new?user_id=axg8t2-oroeja,本次请求的方法是：GET响应总时间为：13
+2019-03-21 21:42:19,548 INFO 22092 本次请求的路径为：/public/spa/manifest.json,本次请求的方法是：GET响应总时间为：6
+2019-03-21 21:42:19,559 INFO 22092 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：16
+2019-03-21 21:42:19,600 INFO 22092 本次请求的路径为：/public/spa/static/css/32.b8dbf57e.chunk.css,本次请求的方法是：GET响应总时间为：1
+2019-03-21 21:42:19,606 INFO 22092 本次请求的路径为：/public/spa/static/js/32.881db79f.chunk.js,本次请求的方法是：GET响应总时间为：3
+2019-03-21 21:42:19,609 INFO 22092 本次请求的路径为：/public/spa/static/js/33.334e1c5d.chunk.js,本次请求的方法是：GET响应总时间为：5
+2019-03-21 21:42:19,712 INFO 22092 本次请求的路径为：/public/spa/static/js/12.60cf027f.chunk.js.map,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:42:19,744 INFO 22092 本次请求的路径为：/public/spa/static/css/32.b8dbf57e.chunk.css.map,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:42:19,747 INFO 22092 本次请求的路径为：/public/spa/static/js/33.334e1c5d.chunk.js.map,本次请求的方法是：GET响应总时间为：3
+2019-03-21 21:42:19,803 INFO 22092 本次请求的路径为：/exam/examType,本次请求的方法是：GET响应总时间为：16
+2019-03-21 21:42:19,807 INFO 22092 本次请求的路径为：/public/spa/static/js/32.881db79f.chunk.js.map,本次请求的方法是：GET响应总时间为：17
+2019-03-21 21:42:19,821 INFO 22092 本次请求的路径为：/exam/getQuestionsType,本次请求的方法是：GET响应总时间为：30
+2019-03-21 21:42:19,823 INFO 22092 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：30
+2019-03-21 21:42:19,840 INFO 22092 本次请求的路径为：/exam/exam,本次请求的方法是：GET响应总时间为：39
+2019-03-21 21:44:14,168 INFO 14284 本次请求的路径为：/public/spa/static/js/3.dc88c541.chunk.js,本次请求的方法是：GET响应总时间为：15
+2019-03-21 21:44:14,183 INFO 14284 本次请求的路径为：/public/spa/static/js/12.60cf027f.chunk.js,本次请求的方法是：GET响应总时间为：18
+2019-03-21 21:44:14,188 INFO 14284 本次请求的路径为：/public/spa/static/css/12.d97df8b6.chunk.css,本次请求的方法是：GET响应总时间为：22
+2019-03-21 21:44:14,201 INFO 14284 本次请求的路径为：/public/spa/static/js/2.f68dc659.chunk.js,本次请求的方法是：GET响应总时间为：20
+2019-03-21 21:44:14,208 INFO 14284 本次请求的路径为：/public/spa/static/js/7.4d0caaaf.chunk.js,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:44:14,211 INFO 14284 本次请求的路径为：/public/spa/static/js/13.bc4fbe65.chunk.js,本次请求的方法是：GET响应总时间为：10
+2019-03-21 21:44:14,217 INFO 14284 本次请求的路径为：/public/spa/static/js/1.78dfaf45.chunk.js,本次请求的方法是：GET响应总时间为：9
+2019-03-21 21:44:14,266 INFO 14284 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js.map,本次请求的方法是：GET响应总时间为：14
+2019-03-21 21:44:14,271 INFO 14284 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js.map,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:44:14,285 INFO 14284 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css.map,本次请求的方法是：GET响应总时间为：7
+2019-03-21 21:44:14,287 INFO 14284 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css.map,本次请求的方法是：GET响应总时间为：9
+2019-03-21 21:44:14,438 INFO 14284 本次请求的路径为：/public/spa/static/js/0.f9fc47ec.chunk.js.map,本次请求的方法是：GET响应总时间为：3
+2019-03-21 21:44:14,443 INFO 14284 本次请求的路径为：/public/spa/static/js/2.f68dc659.chunk.js.map,本次请求的方法是：GET响应总时间为：7
+2019-03-21 21:44:14,449 INFO 14284 本次请求的路径为：/public/spa/static/css/12.d97df8b6.chunk.css.map,本次请求的方法是：GET响应总时间为：12
+2019-03-21 21:44:14,465 INFO 14284 本次请求的路径为：/public/spa/static/js/7.4d0caaaf.chunk.js.map,本次请求的方法是：GET响应总时间为：28
+2019-03-21 21:44:14,468 INFO 14284 本次请求的路径为：/public/spa/static/js/13.bc4fbe65.chunk.js.map,本次请求的方法是：GET响应总时间为：26
+2019-03-21 21:44:14,471 INFO 14284 本次请求的路径为：/public/spa/static/js/3.dc88c541.chunk.js.map,本次请求的方法是：GET响应总时间为：29
+2019-03-21 21:44:14,478 INFO 14284 本次请求的路径为：/public/spa/static/js/1.78dfaf45.chunk.js.map,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:44:14,491 INFO 14284 本次请求的路径为：/user/userInfo,本次请求的方法是：GET响应总时间为：34
+2019-03-21 21:44:14,503 INFO 14284 本次请求的路径为：/public/spa/manifest.json,本次请求的方法是：GET响应总时间为：1
+2019-03-21 21:44:14,534 INFO 14284 本次请求的路径为：/user/new?user_id=axg8t2-oroeja,本次请求的方法是：GET响应总时间为：13
+2019-03-21 21:44:14,539 INFO 14284 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：15
+2019-03-21 21:44:14,569 INFO 14284 本次请求的路径为：/public/spa/static/js/12.60cf027f.chunk.js.map,本次请求的方法是：GET响应总时间为：3
+2019-03-21 21:44:14,573 INFO 14284 本次请求的路径为：/public/spa/static/css/32.b8dbf57e.chunk.css,本次请求的方法是：GET响应总时间为：5
+2019-03-21 21:44:14,579 INFO 14284 本次请求的路径为：/public/spa/static/js/32.881db79f.chunk.js,本次请求的方法是：GET响应总时间为：7
+2019-03-21 21:44:14,581 INFO 14284 本次请求的路径为：/public/spa/static/js/33.334e1c5d.chunk.js,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:44:14,755 INFO 14284 本次请求的路径为：/exam/examType,本次请求的方法是：GET响应总时间为：9
+2019-03-21 21:44:14,765 INFO 14284 本次请求的路径为：/public/spa/static/js/33.334e1c5d.chunk.js.map,本次请求的方法是：GET响应总时间为：5
+2019-03-21 21:44:14,768 INFO 14284 本次请求的路径为：/public/spa/static/css/32.b8dbf57e.chunk.css.map,本次请求的方法是：GET响应总时间为：7
+2019-03-21 21:44:14,782 ERROR 14284 [-/127.0.0.1/-/29ms GET /exam/exam] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY 
+            exam_exam.subject_id' at line 10
+            exam_exam.subject_id' at line 10
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+        SELECT
+            *    
+        FROM
+            grade,
+            room,
+            user,
+            exam_exam
+        WHERE
+            room.room_id=grade.room_id
+            AND
+            grade.subject_id=exam_exam.subject_id
+            AND
+            exam_exam.status=0
+            AND
+            exam_exam.user_id=user.user_id
+        LIMIT
+            0, 10
+        GROUP BY 
+            exam_exam.subject_id
+        
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY \n            exam_exam.subject_id' at line 10"
+sqlState: "42000"
+index: 0
+sql: "\n        SELECT\n            *    \n        FROM\n            grade,\n            room,\n            user,\n            exam_exam\n        WHERE\n            room.room_id=grade.room_id\n            AND\n            grade.subject_id=exam_exam.subject_id\n            AND\n            exam_exam.status=0\n            AND\n            exam_exam.user_id=user.user_id\n        LIMIT\n            0, 10\n        GROUP BY \n            exam_exam.subject_id\n        "
+name: "ER_PARSE_ERRORError"
+pid: 14284
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-21 21:44:14,902 INFO 14284 本次请求的路径为：/public/spa/static/js/32.881db79f.chunk.js.map,本次请求的方法是：GET响应总时间为：135
+2019-03-21 21:44:14,911 INFO 14284 本次请求的路径为：/exam/getQuestionsType,本次请求的方法是：GET响应总时间为：162
+2019-03-21 21:44:14,915 INFO 14284 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：165
+2019-03-21 21:45:51,732 INFO 22324 本次请求的路径为：/public/spa/spa/main/exam/list,本次请求的方法是：GET响应总时间为：13
+2019-03-21 21:45:51,806 INFO 22324 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css,本次请求的方法是：GET响应总时间为：10
+2019-03-21 21:45:51,817 INFO 22324 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css,本次请求的方法是：GET响应总时间为：13
+2019-03-21 21:45:51,834 INFO 22324 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js,本次请求的方法是：GET响应总时间为：18
+2019-03-21 21:45:51,841 INFO 22324 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js,本次请求的方法是：GET响应总时间为：16
+2019-03-21 21:45:52,121 INFO 22324 本次请求的路径为：/public/spa/static/js/0.f9fc47ec.chunk.js,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:45:52,130 INFO 22324 本次请求的路径为：/public/spa/static/js/1.78dfaf45.chunk.js,本次请求的方法是：GET响应总时间为：5
+2019-03-21 21:45:52,133 INFO 22324 本次请求的路径为：/public/spa/static/js/2.f68dc659.chunk.js,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:45:52,136 INFO 22324 本次请求的路径为：/public/spa/static/js/3.dc88c541.chunk.js,本次请求的方法是：GET响应总时间为：10
+2019-03-21 21:45:52,140 INFO 22324 本次请求的路径为：/public/spa/static/css/12.d97df8b6.chunk.css,本次请求的方法是：GET响应总时间为：5
+2019-03-21 21:45:52,144 INFO 22324 本次请求的路径为：/public/spa/static/js/12.60cf027f.chunk.js,本次请求的方法是：GET响应总时间为：7
+2019-03-21 21:45:52,146 INFO 22324 本次请求的路径为：/public/spa/static/js/13.bc4fbe65.chunk.js,本次请求的方法是：GET响应总时间为：7
+2019-03-21 21:45:52,165 INFO 22324 本次请求的路径为：/public/spa/static/js/7.4d0caaaf.chunk.js,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:45:52,205 INFO 22324 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js.map,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:45:52,214 INFO 22324 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js.map,本次请求的方法是：GET响应总时间为：9
+2019-03-21 21:45:52,234 INFO 22324 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css.map,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:45:52,240 INFO 22324 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css.map,本次请求的方法是：GET响应总时间为：7
+2019-03-21 21:45:52,366 INFO 22324 本次请求的路径为：/public/spa/static/js/0.f9fc47ec.chunk.js.map,本次请求的方法是：GET响应总时间为：3
+2019-03-21 21:45:52,375 INFO 22324 本次请求的路径为：/public/spa/static/js/2.f68dc659.chunk.js.map,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:45:52,382 INFO 22324 本次请求的路径为：/public/spa/static/css/12.d97df8b6.chunk.css.map,本次请求的方法是：GET响应总时间为：7
+2019-03-21 21:45:52,385 INFO 22324 本次请求的路径为：/public/spa/static/js/1.78dfaf45.chunk.js.map,本次请求的方法是：GET响应总时间为：10
+2019-03-21 21:45:52,390 INFO 22324 本次请求的路径为：/public/spa/static/js/13.bc4fbe65.chunk.js.map,本次请求的方法是：GET响应总时间为：9
+2019-03-21 21:45:52,394 INFO 22324 本次请求的路径为：/public/spa/static/js/7.4d0caaaf.chunk.js.map,本次请求的方法是：GET响应总时间为：13
+2019-03-21 21:45:52,406 INFO 22324 本次请求的路径为：/public/spa/static/js/3.dc88c541.chunk.js.map,本次请求的方法是：GET响应总时间为：18
+2019-03-21 21:45:52,422 INFO 22324 本次请求的路径为：/user/userInfo,本次请求的方法是：GET响应总时间为：25
+2019-03-21 21:45:52,469 INFO 22324 本次请求的路径为：/user/new?user_id=axg8t2-oroeja,本次请求的方法是：GET响应总时间为：15
+2019-03-21 21:45:52,480 INFO 22324 本次请求的路径为：/public/spa/manifest.json,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:45:52,487 INFO 22324 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：20
+2019-03-21 21:45:52,518 INFO 22324 本次请求的路径为：/public/spa/static/js/32.881db79f.chunk.js,本次请求的方法是：GET响应总时间为：7
+2019-03-21 21:45:52,520 INFO 22324 本次请求的路径为：/public/spa/static/css/32.b8dbf57e.chunk.css,本次请求的方法是：GET响应总时间为：9
+2019-03-21 21:45:52,524 INFO 22324 本次请求的路径为：/public/spa/static/js/33.334e1c5d.chunk.js,本次请求的方法是：GET响应总时间为：1
+2019-03-21 21:45:52,623 INFO 22324 本次请求的路径为：/public/spa/static/js/12.60cf027f.chunk.js.map,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:45:52,661 INFO 22324 本次请求的路径为：/public/spa/static/js/33.334e1c5d.chunk.js.map,本次请求的方法是：GET响应总时间为：1
+2019-03-21 21:45:52,665 INFO 22324 本次请求的路径为：/public/spa/static/css/32.b8dbf57e.chunk.css.map,本次请求的方法是：GET响应总时间为：1
+2019-03-21 21:45:52,706 INFO 22324 本次请求的路径为：/exam/examType,本次请求的方法是：GET响应总时间为：9
+2019-03-21 21:45:52,719 ERROR 22324 [-/127.0.0.1/-/9ms GET /exam/exam] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY 
+            exam_exam.subject_id' at line 10
+            exam_exam.subject_id' at line 10
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+        SELECT
+            *    
+        FROM
+            grade,
+            room,
+            user,
+            exam_exam
+        WHERE
+            room.room_id=grade.room_id
+            AND
+            grade.subject_id=exam_exam.subject_id
+            AND
+            exam_exam.status=0
+            AND
+            exam_exam.user_id=user.user_id
+        LIMIT
+            0, 10
+        GROUP BY 
+            exam_exam.subject_id
+        
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY \n            exam_exam.subject_id' at line 10"
+sqlState: "42000"
+index: 0
+sql: "\n        SELECT\n            *    \n        FROM\n            grade,\n            room,\n            user,\n            exam_exam\n        WHERE\n            room.room_id=grade.room_id\n            AND\n            grade.subject_id=exam_exam.subject_id\n            AND\n            exam_exam.status=0\n            AND\n            exam_exam.user_id=user.user_id\n        LIMIT\n            0, 10\n        GROUP BY \n            exam_exam.subject_id\n        "
+name: "ER_PARSE_ERRORError"
+pid: 22324
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-21 21:45:52,897 INFO 22324 本次请求的路径为：/exam/getQuestionsType,本次请求的方法是：GET响应总时间为：197
+2019-03-21 21:45:52,902 INFO 22324 本次请求的路径为：/public/spa/static/js/32.881db79f.chunk.js.map,本次请求的方法是：GET响应总时间为：14
+2019-03-21 21:45:52,906 INFO 22324 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：203
+2019-03-21 21:45:55,051 INFO 20084 本次请求的路径为：/public/spa/spa/main/exam/list,本次请求的方法是：GET响应总时间为：15
+2019-03-21 21:45:55,119 INFO 20084 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:45:55,123 INFO 20084 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css,本次请求的方法是：GET响应总时间为：11
+2019-03-21 21:45:55,136 INFO 20084 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:45:55,139 INFO 20084 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js,本次请求的方法是：GET响应总时间为：21
+2019-03-21 21:45:55,417 INFO 20084 本次请求的路径为：/public/spa/static/js/0.f9fc47ec.chunk.js,本次请求的方法是：GET响应总时间为：1
+2019-03-21 21:45:55,429 INFO 20084 本次请求的路径为：/public/spa/static/js/1.78dfaf45.chunk.js,本次请求的方法是：GET响应总时间为：5
+2019-03-21 21:45:55,433 INFO 20084 本次请求的路径为：/public/spa/static/js/2.f68dc659.chunk.js,本次请求的方法是：GET响应总时间为：9
+2019-03-21 21:45:55,446 INFO 20084 本次请求的路径为：/public/spa/static/js/3.dc88c541.chunk.js,本次请求的方法是：GET响应总时间为：21
+2019-03-21 21:45:55,452 INFO 20084 本次请求的路径为：/public/spa/static/css/12.d97df8b6.chunk.css,本次请求的方法是：GET响应总时间为：27
+2019-03-21 21:45:55,469 INFO 20084 本次请求的路径为：/public/spa/static/js/12.60cf027f.chunk.js,本次请求的方法是：GET响应总时间为：24
+2019-03-21 21:45:55,475 INFO 20084 本次请求的路径为：/public/spa/static/js/7.4d0caaaf.chunk.js,本次请求的方法是：GET响应总时间为：9
+2019-03-21 21:45:55,479 INFO 20084 本次请求的路径为：/public/spa/static/js/13.bc4fbe65.chunk.js,本次请求的方法是：GET响应总时间为：12
+2019-03-21 21:45:55,527 INFO 20084 本次请求的路径为：/public/spa/static/js/38.171cc4c1.chunk.js.map,本次请求的方法是：GET响应总时间为：9
+2019-03-21 21:45:55,529 INFO 20084 本次请求的路径为：/public/spa/static/js/main.4ffcbfef.chunk.js.map,本次请求的方法是：GET响应总时间为：11
+2019-03-21 21:45:55,554 INFO 20084 本次请求的路径为：/public/spa/static/css/38.a27fe510.chunk.css.map,本次请求的方法是：GET响应总时间为：7
+2019-03-21 21:45:55,569 INFO 20084 本次请求的路径为：/public/spa/static/css/main.39ef701d.chunk.css.map,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:45:55,650 INFO 20084 本次请求的路径为：/public/spa/static/js/0.f9fc47ec.chunk.js.map,本次请求的方法是：GET响应总时间为：3
+2019-03-21 21:45:55,653 INFO 20084 本次请求的路径为：/public/spa/static/js/2.f68dc659.chunk.js.map,本次请求的方法是：GET响应总时间为：5
+2019-03-21 21:45:55,671 INFO 20084 本次请求的路径为：/public/spa/static/js/1.78dfaf45.chunk.js.map,本次请求的方法是：GET响应总时间为：3
+2019-03-21 21:45:55,673 INFO 20084 本次请求的路径为：/public/spa/static/js/7.4d0caaaf.chunk.js.map,本次请求的方法是：GET响应总时间为：5
+2019-03-21 21:45:55,676 INFO 20084 本次请求的路径为：/public/spa/static/js/13.bc4fbe65.chunk.js.map,本次请求的方法是：GET响应总时间为：7
+2019-03-21 21:45:55,693 INFO 20084 本次请求的路径为：/public/spa/static/js/3.dc88c541.chunk.js.map,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:45:55,697 INFO 20084 本次请求的路径为：/public/spa/static/css/12.d97df8b6.chunk.css.map,本次请求的方法是：GET响应总时间为：4
+2019-03-21 21:45:55,729 INFO 20084 本次请求的路径为：/user/userInfo,本次请求的方法是：GET响应总时间为：20
+2019-03-21 21:45:55,768 INFO 20084 本次请求的路径为：/user/new?user_id=axg8t2-oroeja,本次请求的方法是：GET响应总时间为：9
+2019-03-21 21:45:55,816 INFO 20084 本次请求的路径为：/public/spa/static/css/32.b8dbf57e.chunk.css,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:45:55,826 INFO 20084 本次请求的路径为：/public/spa/static/js/33.334e1c5d.chunk.js,本次请求的方法是：GET响应总时间为：4
+2019-03-21 21:45:55,829 INFO 20084 本次请求的路径为：/public/spa/static/js/32.881db79f.chunk.js,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:45:55,849 INFO 20084 本次请求的路径为：/public/spa/manifest.json,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:45:55,854 INFO 20084 本次请求的路径为：/public/spa/favicon.ico,本次请求的方法是：GET响应总时间为：14
+2019-03-21 21:45:55,932 INFO 20084 本次请求的路径为：/public/spa/static/js/12.60cf027f.chunk.js.map,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:45:55,961 INFO 20084 本次请求的路径为：/public/spa/static/css/32.b8dbf57e.chunk.css.map,本次请求的方法是：GET响应总时间为：2
+2019-03-21 21:45:55,965 INFO 20084 本次请求的路径为：/public/spa/static/js/33.334e1c5d.chunk.js.map,本次请求的方法是：GET响应总时间为：5
+2019-03-21 21:45:56,032 INFO 20084 本次请求的路径为：/public/spa/static/js/32.881db79f.chunk.js.map,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:45:56,077 INFO 20084 本次请求的路径为：/exam/examType,本次请求的方法是：GET响应总时间为：9
+2019-03-21 21:45:56,092 INFO 20084 本次请求的路径为：/exam/getQuestionsType,本次请求的方法是：GET响应总时间为：21
+2019-03-21 21:45:56,098 INFO 20084 本次请求的路径为：/exam/exam,本次请求的方法是：GET响应总时间为：13
+2019-03-21 21:45:56,105 INFO 20084 本次请求的路径为：/exam/subject,本次请求的方法是：GET响应总时间为：31
+2019-03-21 21:49:52,921 INFO 14284 本次请求的路径为：/exam/exam,本次请求的方法是：GET响应总时间为：29
+2019-03-21 21:50:43,070 INFO 14284 本次请求的路径为：/exam/exam?status=1,本次请求的方法是：GET响应总时间为：8
+2019-03-21 21:50:50,247 INFO 14284 本次请求的路径为：/exam/exam,本次请求的方法是：GET响应总时间为：5
+2019-03-21 21:51:13,464 ERROR 14284 [-/127.0.0.1/-/5ms GET /exam/exam?exam_exam_id=sd6t3d-kdrt6e] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'sd6t3d' in 'where clause'
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+        SELECT
+            *    
+        FROM
+            grade,
+            room,
+            user,
+            exam_exam
+        WHERE
+            room.room_id=grade.room_id
+            AND
+            grade.subject_id=exam_exam.subject_id
+            AND
+            exam_exam.status=0
+            AND
+            exam_exam.user_id=user.user_id
+            AND exam_exam.exam_exam_id=sd6t3d-kdrt6e 
+
+        LIMIT
+            0, 10
+        
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'sd6t3d' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "\n        SELECT\n            *    \n        FROM\n            grade,\n            room,\n            user,\n            exam_exam\n        WHERE\n            room.room_id=grade.room_id\n            AND\n            grade.subject_id=exam_exam.subject_id\n            AND\n            exam_exam.status=0\n            AND\n            exam_exam.user_id=user.user_id\n            AND exam_exam.exam_exam_id=sd6t3d-kdrt6e \n\n        LIMIT\n            0, 10\n        "
+name: "ER_BAD_FIELD_ERRORError"
+pid: 14284
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-21 21:52:01,949 INFO 13512 本次请求的路径为：/exam/exam?exam_exam_id=sd6t3d-kdrt6e,本次请求的方法是：GET响应总时间为：27
+2019-03-21 21:56:28,698 INFO 11240 本次请求的路径为：/exam/exam?exam_exam_id=sd6t3d-kdrt6e,本次请求的方法是：GET响应总时间为：24
+2019-03-21 21:58:16,183 INFO 19468 本次请求的路径为：/exam/exam?exam_exam_id=sd6t3d-kdrt6e,本次请求的方法是：GET响应总时间为：34
+2019-03-21 21:58:18,555 INFO 20420 本次请求的路径为：/exam/exam?exam_exam_id=sd6t3d-kdrt6e,本次请求的方法是：GET响应总时间为：26
+2019-03-21 22:04:01,425 INFO 9904 本次请求的路径为：/exam/exam?exam_exam_id=sd6t3d-kdrt6e,本次请求的方法是：GET响应总时间为：29
+2019-03-21 22:05:27,238 INFO 11120 本次请求的路径为：/exam/exam?exam_exam_id=sd6t3d-kdrt6e,本次请求的方法是：GET响应总时间为：41
+2019-03-21 22:08:04,926 INFO 23096 本次请求的路径为：/exam/exam?exam_exam_id=sd6t3d-kdrt6e,本次请求的方法是：GET响应总时间为：26
+2019-03-21 22:09:58,565 INFO 23096 本次请求的路径为：/exam/exam?exam_exam_id=sd6t3d-kdrt6e,本次请求的方法是：GET响应总时间为：9
+2019-03-21 22:10:10,706 INFO 18176 本次请求的路径为：/exam/exam?exam_exam_id=sd6t3d-kdrt6e,本次请求的方法是：GET响应总时间为：47
+2019-03-21 22:13:25,371 INFO 18192 本次请求的路径为：/exam/exam,本次请求的方法是：GET响应总时间为：27

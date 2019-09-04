@@ -1,0 +1,339 @@
+2019-03-22 08:36:55,065 INFO 18192 [Job#1553215015044837803610686991] D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js executing by app
+2019-03-22 08:36:55,113 INFO 18192 [Job#1553215015044837803610686991] D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js execute succeed, used 48ms
+2019-03-22 08:36:55,057 INFO 23444 [Timer] D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 71584955ms at 2019-03-23 04:30:00.012
+2019-03-22 18:21:00,555 INFO 4068 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 18:21:00,555 INFO 4068 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 18:21:00,555 INFO 4068 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 18:21:00,555 INFO 4068 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 18:21:01,631 INFO 17480 [Timer] D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 36538374ms at 2019-03-23 04:30:00.005
+2019-03-22 18:21:01,632 INFO 17480 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js next time will execute after 20338368ms at 2019-03-23 00:00:00.000
+2019-03-22 18:21:01,633 INFO 17480 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 20339368ms at 2019-03-23 00:00:01.001
+2019-03-22 18:21:01,633 INFO 17480 [Timer] D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 20338367ms at 2019-03-23 00:00:00.000
+2019-03-22 18:21:51,104 INFO 26456 [Timer] D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 36488899ms at 2019-03-23 04:30:00.003
+2019-03-22 18:21:51,105 INFO 26456 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js next time will execute after 20288896ms at 2019-03-23 00:00:00.001
+2019-03-22 18:21:51,105 INFO 26456 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 20289895ms at 2019-03-23 00:00:01.000
+2019-03-22 18:21:51,105 INFO 26456 [Timer] D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 20288895ms at 2019-03-23 00:00:00.000
+2019-03-22 18:21:50,434 INFO 13420 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 18:21:50,434 INFO 13420 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 18:21:50,434 INFO 13420 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 18:21:50,434 INFO 13420 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 18:23:25,748 INFO 17596 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 18:23:25,748 INFO 17596 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 18:23:25,748 INFO 17596 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 18:23:25,748 INFO 17596 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 18:23:27,059 INFO 22076 [Timer] D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 36392947ms at 2019-03-23 04:30:00.006
+2019-03-22 18:23:27,059 INFO 22076 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js next time will execute after 20192941ms at 2019-03-23 00:00:00.000
+2019-03-22 18:23:27,060 INFO 22076 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 20193941ms at 2019-03-23 00:00:01.001
+2019-03-22 18:23:27,060 INFO 22076 [Timer] D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 20192940ms at 2019-03-23 00:00:00.000
+2019-03-22 19:04:36,040 INFO 20520 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 19:04:36,040 INFO 20520 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 19:04:36,040 INFO 20520 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 19:04:36,040 INFO 20520 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 19:04:36,689 INFO 17992 [Timer] D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 33923315ms at 2019-03-23 04:30:00.004
+2019-03-22 19:04:36,689 INFO 17992 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js next time will execute after 17723311ms at 2019-03-23 00:00:00.000
+2019-03-22 19:04:36,690 INFO 17992 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 17724311ms at 2019-03-23 00:00:01.001
+2019-03-22 19:04:36,690 INFO 17992 [Timer] D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 17723310ms at 2019-03-23 00:00:00.000
+2019-03-22 20:19:41,179 INFO 25976 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 20:19:41,179 INFO 25976 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 20:19:41,179 INFO 25976 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 20:19:41,179 INFO 25976 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 20:19:41,876 INFO 3260 [Timer] D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 29418128ms at 2019-03-23 04:30:00.004
+2019-03-22 20:19:41,876 INFO 3260 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js next time will execute after 13218124ms at 2019-03-23 00:00:00.000
+2019-03-22 20:19:41,877 INFO 3260 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 13219124ms at 2019-03-23 00:00:01.001
+2019-03-22 20:19:41,877 INFO 3260 [Timer] D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 13218123ms at 2019-03-23 00:00:00.000
+2019-03-22 20:27:28,689 INFO 13148 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 20:27:28,689 INFO 13148 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 20:27:28,689 INFO 13148 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 20:27:28,689 INFO 13148 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 20:27:31,455 INFO 14548 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 20:27:31,455 INFO 14548 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 20:27:31,455 INFO 14548 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 20:27:31,455 INFO 14548 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 20:28:00,419 INFO 22580 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 20:28:00,419 INFO 22580 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 20:28:00,419 INFO 22580 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 20:28:00,419 INFO 22580 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 20:30:16,104 INFO 25060 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 20:30:16,104 INFO 25060 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 20:30:16,104 INFO 25060 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 20:30:16,104 INFO 25060 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 20:30:19,777 INFO 4292 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 20:30:19,777 INFO 4292 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 20:30:19,777 INFO 4292 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 20:30:19,777 INFO 4292 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 20:33:14,128 INFO 13396 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 20:33:14,129 INFO 13396 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 20:33:14,129 INFO 13396 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 20:33:14,129 INFO 13396 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 20:33:18,554 INFO 23464 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 20:33:18,554 INFO 23464 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 20:33:18,554 INFO 23464 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 20:33:18,554 INFO 23464 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 20:36:11,167 INFO 13736 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 20:36:11,167 INFO 13736 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 20:36:11,168 INFO 13736 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 20:36:11,168 INFO 13736 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 20:36:13,609 INFO 16900 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 20:36:13,609 INFO 16900 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 20:36:13,609 INFO 16900 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 20:36:13,609 INFO 16900 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 20:44:51,406 INFO 20048 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 20:44:51,406 INFO 20048 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 20:44:51,406 INFO 20048 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 20:44:51,406 INFO 20048 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 20:44:54,873 INFO 23688 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 20:44:54,874 INFO 23688 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 20:44:54,874 INFO 23688 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 20:44:54,874 INFO 23688 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:11:56,779 INFO 25628 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:11:56,779 INFO 25628 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:11:56,779 INFO 25628 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:11:56,779 INFO 25628 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:12:01,474 INFO 15388 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:12:01,474 INFO 15388 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:12:01,474 INFO 15388 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:12:01,474 INFO 15388 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:13:25,132 INFO 24864 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:13:25,132 INFO 24864 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:13:25,132 INFO 24864 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:13:25,132 INFO 24864 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:13:29,208 INFO 22016 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:13:29,208 INFO 22016 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:13:29,208 INFO 22016 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:13:29,208 INFO 22016 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:14:15,951 INFO 7628 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:14:15,951 INFO 7628 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:14:15,951 INFO 7628 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:14:15,951 INFO 7628 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:14:18,267 INFO 21856 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:14:18,267 INFO 21856 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:14:18,267 INFO 21856 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:14:18,267 INFO 21856 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:16:16,859 INFO 8028 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:16:16,859 INFO 8028 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:16:16,859 INFO 8028 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:16:16,859 INFO 8028 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:16:20,155 INFO 2548 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:16:20,155 INFO 2548 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:16:20,156 INFO 2548 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:16:20,156 INFO 2548 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:18:22,214 INFO 24536 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:18:22,214 INFO 24536 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:18:22,214 INFO 24536 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:18:22,214 INFO 24536 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:18:27,530 INFO 3116 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:18:27,530 INFO 3116 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:18:27,530 INFO 3116 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:18:27,530 INFO 3116 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:20:40,967 INFO 22720 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:20:40,967 INFO 22720 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:20:40,967 INFO 22720 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:20:40,967 INFO 22720 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:20:43,598 INFO 16172 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:20:43,598 INFO 16172 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:20:43,598 INFO 16172 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:20:43,598 INFO 16172 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:22:21,422 INFO 18256 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:22:21,422 INFO 18256 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:22:21,422 INFO 18256 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:22:21,423 INFO 18256 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:22:27,232 INFO 25536 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:22:27,232 INFO 25536 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:22:27,232 INFO 25536 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:22:27,232 INFO 25536 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:23:37,267 INFO 14632 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:23:37,267 INFO 14632 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:23:37,267 INFO 14632 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:23:37,267 INFO 14632 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:23:42,627 INFO 25320 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:23:42,627 INFO 25320 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:23:42,627 INFO 25320 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:23:42,627 INFO 25320 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:27:38,972 INFO 16212 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:27:38,972 INFO 16212 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:27:38,972 INFO 16212 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:27:38,972 INFO 16212 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-22 21:39:54,809 INFO 14016 [Timer] D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 24605195ms at 2019-03-23 04:30:00.004
+2019-03-22 21:39:54,809 INFO 14016 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js next time will execute after 8405191ms at 2019-03-23 00:00:00.000
+2019-03-22 21:39:54,809 INFO 14016 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 8406191ms at 2019-03-23 00:00:01.000
+2019-03-22 21:39:54,809 INFO 14016 [Timer] D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 8405191ms at 2019-03-23 00:00:00.000
+2019-03-22 21:39:54,147 INFO 12832 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-22 21:39:54,147 INFO 12832 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-22 21:39:54,147 INFO 12832 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-22 21:39:54,147 INFO 12832 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:34:09,087 INFO 15280 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:34:09,087 INFO 15280 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:34:09,087 INFO 15280 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:34:09,087 INFO 15280 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:35:26,145 INFO 1008 [Timer] D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 71673858ms at 2019-03-29 04:30:00.003
+2019-03-28 08:35:26,145 INFO 1008 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js next time will execute after 55473855ms at 2019-03-29 00:00:00.000
+2019-03-28 08:35:26,145 INFO 1008 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 55474855ms at 2019-03-29 00:00:01.000
+2019-03-28 08:35:26,146 INFO 1008 [Timer] D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 55473855ms at 2019-03-29 00:00:00.001
+2019-03-28 08:35:25,692 INFO 13228 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:35:25,692 INFO 13228 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:35:25,692 INFO 13228 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:35:25,692 INFO 13228 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:39:39,519 INFO 8908 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:39:39,519 INFO 8908 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:39:39,519 INFO 8908 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:39:39,519 INFO 8908 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:39:41,123 INFO 25548 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:39:41,123 INFO 25548 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:39:41,123 INFO 25548 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:39:41,123 INFO 25548 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:40:42,994 INFO 13788 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:40:42,994 INFO 13788 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:40:42,994 INFO 13788 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:40:42,994 INFO 13788 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:40:44,529 INFO 12432 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:40:44,530 INFO 12432 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:40:44,530 INFO 12432 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:40:44,530 INFO 12432 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:50:10,481 INFO 21100 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:50:10,481 INFO 21100 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:50:10,481 INFO 21100 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:50:10,481 INFO 21100 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:50:12,158 INFO 21152 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:50:12,158 INFO 21152 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:50:12,158 INFO 21152 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:50:12,158 INFO 21152 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:50:31,248 INFO 16608 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:50:31,248 INFO 16608 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:50:31,248 INFO 16608 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:50:31,248 INFO 16608 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:50:32,900 INFO 21500 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:50:32,901 INFO 21500 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:50:32,901 INFO 21500 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:50:32,901 INFO 21500 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:51:20,527 INFO 10204 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:51:20,527 INFO 10204 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:51:20,527 INFO 10204 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:51:20,527 INFO 10204 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:51:22,066 INFO 24960 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:51:22,066 INFO 24960 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:51:22,066 INFO 24960 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:51:22,066 INFO 24960 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:52:29,886 INFO 13836 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:52:29,886 INFO 13836 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:52:29,886 INFO 13836 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:52:29,886 INFO 13836 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:52:31,387 INFO 13980 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:52:31,387 INFO 13980 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:52:31,387 INFO 13980 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:52:31,387 INFO 13980 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:54:18,546 INFO 17652 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:54:18,546 INFO 17652 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:54:18,546 INFO 17652 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:54:18,546 INFO 17652 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:54:19,966 INFO 18984 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:54:19,966 INFO 18984 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:54:19,966 INFO 18984 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:54:19,966 INFO 18984 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:58:34,818 INFO 17852 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:58:34,818 INFO 17852 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:58:34,818 INFO 17852 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:58:34,818 INFO 17852 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:58:36,236 INFO 20968 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:58:36,236 INFO 20968 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:58:36,236 INFO 20968 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:58:36,236 INFO 20968 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:58:44,916 INFO 14140 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:58:44,916 INFO 14140 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:58:44,916 INFO 14140 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:58:44,916 INFO 14140 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 08:58:46,611 INFO 21288 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 08:58:46,612 INFO 21288 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 08:58:46,612 INFO 21288 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 08:58:46,612 INFO 21288 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-03-28 09:00:07,153 INFO 24920 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-03-28 09:00:07,153 INFO 24920 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-03-28 09:00:07,153 INFO 24920 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-03-28 09:00:07,153 INFO 24920 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:00:49,260 INFO 23620 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:00:49,260 INFO 23620 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:00:49,260 INFO 23620 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:00:49,260 INFO 23620 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:02:25,366 INFO 24024 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:02:25,366 INFO 24024 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:02:25,366 INFO 24024 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:02:25,366 INFO 24024 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:02:26,576 INFO 18460 [Timer] D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 30453439ms at 2019-04-23 04:30:00.015
+2019-04-22 20:02:26,577 INFO 18460 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js next time will execute after 14253423ms at 2019-04-23 00:00:00.000
+2019-04-22 20:02:26,578 INFO 18460 [Timer] D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 14254423ms at 2019-04-23 00:00:01.001
+2019-04-22 20:02:26,579 INFO 18460 [Timer] D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js next time will execute after 14253422ms at 2019-04-23 00:00:00.001
+2019-04-22 20:03:22,653 INFO 13072 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:03:22,653 INFO 13072 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:03:22,653 INFO 13072 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:03:22,653 INFO 13072 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:03:26,886 INFO 13760 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:03:26,886 INFO 13760 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:03:26,887 INFO 13760 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:03:26,887 INFO 13760 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:05:18,406 INFO 10108 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:05:18,407 INFO 10108 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:05:18,407 INFO 10108 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:05:18,407 INFO 10108 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:05:20,886 INFO 4540 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:05:20,886 INFO 4540 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:05:20,886 INFO 4540 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:05:20,886 INFO 4540 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:05:39,593 INFO 15292 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:05:39,593 INFO 15292 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:05:39,593 INFO 15292 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:05:39,593 INFO 15292 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:05:43,740 INFO 6516 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:05:43,740 INFO 6516 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:05:43,740 INFO 6516 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:05:43,740 INFO 6516 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:07:09,153 INFO 24508 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:07:09,153 INFO 24508 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:07:09,153 INFO 24508 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:07:09,153 INFO 24508 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:07:12,956 INFO 10056 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:07:12,956 INFO 10056 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:07:12,956 INFO 10056 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:07:12,956 INFO 10056 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:07:49,902 INFO 17440 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:07:49,903 INFO 17440 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:07:49,903 INFO 17440 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:07:49,903 INFO 17440 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:07:53,031 INFO 15904 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:07:53,031 INFO 15904 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:07:53,031 INFO 15904 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:07:53,031 INFO 15904 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:08:13,985 INFO 21464 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:08:13,985 INFO 21464 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:08:13,986 INFO 21464 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:08:13,986 INFO 21464 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:08:18,065 INFO 14692 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:08:18,065 INFO 14692 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:08:18,065 INFO 14692 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:08:18,065 INFO 14692 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:08:39,001 INFO 20564 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:08:39,001 INFO 20564 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:08:39,001 INFO 20564 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:08:39,001 INFO 20564 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:08:42,897 INFO 22388 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:08:42,897 INFO 22388 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:08:42,897 INFO 22388 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:08:42,897 INFO 22388 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:08:53,732 INFO 11980 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:08:53,733 INFO 11980 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:08:53,733 INFO 11980 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:08:53,733 INFO 11980 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-04-22 20:08:57,523 INFO 22404 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-multipart@2.4.0@egg-multipart\app\schedule\clean_tmpdir.js
+2019-04-22 20:08:57,523 INFO 22404 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\clean_log.js
+2019-04-22 20:08:57,523 INFO 22404 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-logrotator@3.0.5@egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-22 20:08:57,523 INFO 22404 [egg-schedule]: register schedule D:\web\egg-exam\node_modules\_egg-alinode@2.0.1@egg-alinode\app\schedule\removeLogs.js
+2019-09-02 16:58:55,366 INFO 9924 [Timer] C:\Users\l\Desktop\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 41464650ms at 2019-09-03 04:30:00.016
+2019-09-02 16:58:55,367 INFO 9924 [Timer] C:\Users\l\Desktop\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 25264634ms at 2019-09-03 00:00:00.001
+2019-09-02 16:58:55,367 INFO 9924 [Timer] C:\Users\l\Desktop\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 25265633ms at 2019-09-03 00:00:01.000
+2019-09-02 16:58:55,367 INFO 9924 [Timer] C:\Users\l\Desktop\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js next time will execute after 25264633ms at 2019-09-03 00:00:00.000
+2019-09-02 16:58:54,422 INFO 54048 [egg-schedule]: register schedule C:\Users\l\Desktop\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-02 16:58:54,422 INFO 54048 [egg-schedule]: register schedule C:\Users\l\Desktop\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-02 16:58:54,422 INFO 54048 [egg-schedule]: register schedule C:\Users\l\Desktop\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-02 16:58:54,422 INFO 54048 [egg-schedule]: register schedule C:\Users\l\Desktop\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js
+2019-09-02 17:32:53,696 INFO 52668 [egg-schedule]: register schedule C:\Users\l\Desktop\egg-exam\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-02 17:32:53,696 INFO 52668 [egg-schedule]: register schedule C:\Users\l\Desktop\egg-exam\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-02 17:32:53,696 INFO 52668 [egg-schedule]: register schedule C:\Users\l\Desktop\egg-exam\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-02 17:32:53,696 INFO 52668 [egg-schedule]: register schedule C:\Users\l\Desktop\egg-exam\node_modules\egg-alinode\app\schedule\removeLogs.js

@@ -1,0 +1,1249 @@
+2019-03-12 13:11:58,537 ERROR 19688 [-/127.0.0.1/-/8ms GET /exam/exam/w5tcy-g2dts] nodejs.TypeError: Cannot destructure property `user_id` of 'undefined' or 'null'.
+    at D:\web\egg-exam\app\middleware\checkIdentity.js:14:29
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\app\middleware\checkLogin.js:16:15
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\app\middleware\singlePage.js:9:19
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\node_modules\_koa-static-cache@5.1.2@koa-static-cache\index.js:53:62
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at rangeMiddleware (D:\web\egg-exam\node_modules\_egg-static@2.2.0@egg-static\app\middleware\static.js:23:12)
+
+pid: 19688
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 13:12:02,208 ERROR 19108 [-/127.0.0.1/-/3ms GET /exam/exam/w5tcy-g2dts] nodejs.TypeError: Cannot destructure property `user_id` of 'undefined' or 'null'.
+    at D:\web\egg-exam\app\middleware\checkIdentity.js:14:29
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\app\middleware\checkLogin.js:16:15
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\app\middleware\singlePage.js:9:19
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\node_modules\_koa-static-cache@5.1.2@koa-static-cache\index.js:53:62
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at rangeMiddleware (D:\web\egg-exam\node_modules\_egg-static@2.2.0@egg-static\app\middleware\static.js:23:12)
+
+pid: 19108
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 13:12:32,934 ERROR 696 [-/127.0.0.1/-/4ms GET /exam/exam/w5tcy-g2dts] nodejs.TypeError: Cannot destructure property `user_id` of 'undefined' or 'null'.
+    at D:\web\egg-exam\app\middleware\checkIdentity.js:14:29
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\app\middleware\checkLogin.js:16:15
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\app\middleware\singlePage.js:9:19
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\node_modules\_koa-static-cache@5.1.2@koa-static-cache\index.js:53:62
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at rangeMiddleware (D:\web\egg-exam\node_modules\_egg-static@2.2.0@egg-static\app\middleware\static.js:23:12)
+
+pid: 696
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 13:12:33,734 ERROR 15492 [-/127.0.0.1/-/2ms GET /exam/exam/w5tcy-g2dts] nodejs.TypeError: Cannot destructure property `user_id` of 'undefined' or 'null'.
+    at D:\web\egg-exam\app\middleware\checkIdentity.js:14:29
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\app\middleware\checkLogin.js:16:15
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\app\middleware\singlePage.js:9:19
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\node_modules\_koa-static-cache@5.1.2@koa-static-cache\index.js:53:62
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at rangeMiddleware (D:\web\egg-exam\node_modules\_egg-static@2.2.0@egg-static\app\middleware\static.js:23:12)
+
+pid: 15492
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 13:12:43,194 ERROR 15492 [-/127.0.0.1/-/1ms GET /exam/exam/w5tcy-g2dts] nodejs.TypeError: Cannot destructure property `user_id` of 'undefined' or 'null'.
+    at D:\web\egg-exam\app\middleware\checkIdentity.js:14:29
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\app\middleware\checkLogin.js:16:15
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\app\middleware\singlePage.js:9:19
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\node_modules\_koa-static-cache@5.1.2@koa-static-cache\index.js:53:62
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at rangeMiddleware (D:\web\egg-exam\node_modules\_egg-static@2.2.0@egg-static\app\middleware\static.js:23:12)
+
+pid: 15492
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 13:13:33,659 ERROR 3068 [-/127.0.0.1/-/3ms GET /exam/exam/w5tcy-g2dts] nodejs.TypeError: Cannot destructure property `user_id` of 'undefined' or 'null'.
+    at D:\web\egg-exam\app\middleware\checkIdentity.js:14:29
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\app\middleware\checkLogin.js:16:15
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\app\middleware\singlePage.js:9:19
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\node_modules\_koa-static-cache@5.1.2@koa-static-cache\index.js:53:62
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at rangeMiddleware (D:\web\egg-exam\node_modules\_egg-static@2.2.0@egg-static\app\middleware\static.js:23:12)
+
+pid: 3068
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 13:14:17,638 ERROR 23156 [-/127.0.0.1/-/51ms GET /exam/exam/w5tcy-g2dts] nodejs.ENOENTError: ENOENT: no such file or directory, open 'D:\web\egg-exam\answer_save\83nd9t-3126tf-zoa4o9-n1l4pr.json'
+    at Object.fs.openSync (fs.js:545:3)
+    at Object.fs.readFileSync (fs.js:451:33)
+    at result.questions.result.questions.map.item (D:\web\egg-exam\app\service\exam\exam.js:140:34)
+    at Array.map (<anonymous>)
+    at ExamService.getExam (D:\web\egg-exam\app\service\exam\exam.js:139:45)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+errno: -4058
+syscall: "open"
+code: "ENOENT"
+path: "D:\\web\\egg-exam\\answer_save\\83nd9t-3126tf-zoa4o9-n1l4pr.json"
+name: "ENOENTError"
+pid: 23156
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 13:14:33,784 ERROR 23156 [-/127.0.0.1/-/6ms GET /exam/exam/w5tcy-g2dts] nodejs.ENOENTError: ENOENT: no such file or directory, open 'D:\web\egg-exam\answer_save\83nd9t-3126tf-zoa4o9-n1l4pr.json'
+    at Object.fs.openSync (fs.js:545:3)
+    at Object.fs.readFileSync (fs.js:451:33)
+    at result.questions.result.questions.map.item (D:\web\egg-exam\app\service\exam\exam.js:140:34)
+    at Array.map (<anonymous>)
+    at ExamService.getExam (D:\web\egg-exam\app\service\exam\exam.js:139:45)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+errno: -4058
+syscall: "open"
+code: "ENOENT"
+path: "D:\\web\\egg-exam\\answer_save\\83nd9t-3126tf-zoa4o9-n1l4pr.json"
+name: "ENOENTError"
+pid: 23156
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 13:14:42,188 ERROR 23156 [-/127.0.0.1/-/31ms POST /exam/exam?subject_id=fqtktr-1lq5u&exam_id=8sc5d7-7p5f9e-cb2zii-ahe5i&start_time=1551863357534&end_time=1551863357534] nodejs.TypeError: Cannot read property 'user_id' of undefined
+    at ExamService.insertExam (D:\web\egg-exam\app\service\exam\exam.js:79:37)
+    at ExamController.create (D:\web\egg-exam\app\controller\exam\exam.js:77:64)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 23156
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 13:15:24,855 ERROR 22444 [-/127.0.0.1/-/30ms POST /exam/exam?subject_id=fqtktr-1lq5u&exam_id=8sc5d7-7p5f9e-cb2zii-ahe5i&start_time=1551863357534&end_time=1551863357534] nodejs.ENOENTError: ENOENT: no such file or directory, open 'D:\web\egg-exam\answer_save\c3i1t-ay2k4s-esahyn-023sc4.json'
+    at Object.fs.openSync (fs.js:545:3)
+    at Object.fs.readFileSync (fs.js:451:33)
+    at exam_content.questions.questions.map.item (D:\web\egg-exam\app\service\exam\exam.js:87:34)
+    at Array.map (<anonymous>)
+    at ExamService.insertExam (D:\web\egg-exam\app\service\exam\exam.js:86:44)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+errno: -4058
+syscall: "open"
+code: "ENOENT"
+path: "D:\\web\\egg-exam\\answer_save\\c3i1t-ay2k4s-esahyn-023sc4.json"
+name: "ENOENTError"
+pid: 22444
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 13:15:52,372 ERROR 20300 [-/127.0.0.1/-/34ms POST /exam/exam?subject_id=fqtktr-1lq5u&exam_id=8sc5d7-7p5f9e-cb2zii-ahe5i&start_time=1551863357534&end_time=1551863357534] nodejs.Error: next() called multiple times
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:36:45)
+    at D:\web\egg-exam\app\middleware\checkLogin.js:55:15
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 20300
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 13:43:08,420 ERROR 1768 [-/127.0.0.1/-/41ms POST /exam/exam] nodejs.ER_BAD_NULL_ERRORError: ER_BAD_NULL_ERROR: Column 'exam_type' cannot be null
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: INSERT INTO `exam_exam`(`exam_exam_id`, `exam_type`, `question_ids`) VALUES('cwoe49-8emnsq', NULL, '')
+code: "ER_BAD_NULL_ERROR"
+errno: 1048
+sqlMessage: "Column 'exam_type' cannot be null"
+sqlState: "23000"
+index: 0
+sql: "INSERT INTO `exam_exam`(`exam_exam_id`, `exam_type`, `question_ids`) VALUES('cwoe49-8emnsq', NULL, '')"
+name: "ER_BAD_NULL_ERRORError"
+pid: 1768
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 13:43:18,565 ERROR 8324 [-/127.0.0.1/-/25ms POST /exam/exam] nodejs.ER_BAD_NULL_ERRORError: ER_BAD_NULL_ERROR: Column 'exam_type' cannot be null
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: INSERT INTO `exam_exam`(`exam_exam_id`, `exam_type`, `question_ids`) VALUES('115gi-fevtr', NULL, '')
+code: "ER_BAD_NULL_ERROR"
+errno: 1048
+sqlMessage: "Column 'exam_type' cannot be null"
+sqlState: "23000"
+index: 0
+sql: "INSERT INTO `exam_exam`(`exam_exam_id`, `exam_type`, `question_ids`) VALUES('115gi-fevtr', NULL, '')"
+name: "ER_BAD_NULL_ERRORError"
+pid: 8324
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 13:49:22,085 ERROR 19232 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 19232
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 13:50:18,755 ERROR 468 [-/127.0.0.1/-/25ms POST /exam/student] nodejs.TypeError: (+(intermediate value)).slice is not a function
+    at ExamStudentService.createExamStudent (D:\web\egg-exam\app\service\exam\examStudent.js:37:65)
+    at ExamStudentController.create (D:\web\egg-exam\app\controller\exam\examStudent.js:69:55)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+
+pid: 468
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 13:50:58,938 ERROR 7356 [-/127.0.0.1/-/3ms POST /exam/student] nodejs.TypeError: (+(intermediate value)).slice is not a function
+    at ExamStudentService.createExamStudent (D:\web\egg-exam\app\service\exam\examStudent.js:37:65)
+    at ExamStudentController.create (D:\web\egg-exam\app\controller\exam\examStudent.js:69:55)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+
+pid: 7356
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 13:52:25,018 ERROR 8424 [-/127.0.0.1/-/21ms POST /exam/student] nodejs.ENOENTError: ENOENT: no such file or directory, open 'D:\web\egg-exam\answer_save\yhoexh-rtgevi-41je7b-yzbs7t155236.json'
+    at Object.fs.openSync (fs.js:545:3)
+    at Object.fs.writeFileSync (fs.js:1275:33)
+    at ExamStudentService.createExamStudent (D:\web\egg-exam\app\service\exam\examStudent.js:39:12)
+    at ExamStudentController.create (D:\web\egg-exam\app\controller\exam\examStudent.js:69:55)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+errno: -4058
+syscall: "open"
+code: "ENOENT"
+path: "D:\\web\\egg-exam\\answer_save\\yhoexh-rtgevi-41je7b-yzbs7t155236.json"
+name: "ENOENTError"
+pid: 8424
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 13:57:14,768 ERROR 2888 [-/127.0.0.1/-/128ms POST /exam/student] nodejs.ER_OPERAND_COLUMNSError: ER_OPERAND_COLUMNS: Operand should contain 1 column(s)
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: INSERT INTO `exam_student`(`exam_exam_id`, `questions`, `start_time`, `end_time`, `answer_json_path`) VALUES('w5tcy-g2dts', ('[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]'), 1551863357534, 1551863357534, 'f8qliy-4hued-9k3n5i-rmf1zk.json')
+code: "ER_OPERAND_COLUMNS"
+errno: 1241
+sqlMessage: "Operand should contain 1 column(s)"
+sqlState: "21000"
+index: 0
+sql: "INSERT INTO `exam_student`(`exam_exam_id`, `questions`, `start_time`, `end_time`, `answer_json_path`) VALUES('w5tcy-g2dts', ('[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]'), 1551863357534, 1551863357534, 'f8qliy-4hued-9k3n5i-rmf1zk.json')"
+name: "ER_OPERAND_COLUMNSError"
+pid: 2888
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 14:00:37,824 ERROR 18612 [-/127.0.0.1/-/79ms POST /exam/student] nodejs.ER_OPERAND_COLUMNSError: ER_OPERAND_COLUMNS: Operand should contain 1 column(s)
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: INSERT INTO `exam_student`(`exam_exam_id`, `questions`, `start_time`, `end_time`, `answer_json_path`, `exam_student_id`) VALUES('w5tcy-g2dts', ('[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]'), 1551863357534, 1551863357534, '1vxmff-9q6pol-pze5es-jp3n6t.json', '1vxmff-9q6pol-pze5es-jp3n6t')
+code: "ER_OPERAND_COLUMNS"
+errno: 1241
+sqlMessage: "Operand should contain 1 column(s)"
+sqlState: "21000"
+index: 0
+sql: "INSERT INTO `exam_student`(`exam_exam_id`, `questions`, `start_time`, `end_time`, `answer_json_path`, `exam_student_id`) VALUES('w5tcy-g2dts', ('[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]'), 1551863357534, 1551863357534, '1vxmff-9q6pol-pze5es-jp3n6t.json', '1vxmff-9q6pol-pze5es-jp3n6t')"
+name: "ER_OPERAND_COLUMNSError"
+pid: 18612
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 14:01:23,116 ERROR 5116 [-/127.0.0.1/-/23ms POST /exam/student] nodejs.SyntaxError: Identifier 'examInfo' has already been declared
+    at ExamStudentController.create (D:\web\egg-exam\app\controller\exam\examStudent.js:69:55)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 5116
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 14:01:28,348 ERROR 5116 [-/127.0.0.1/-/1ms POST /exam/student] nodejs.SyntaxError: Identifier 'examInfo' has already been declared
+    at ExamStudentController.create (D:\web\egg-exam\app\controller\exam\examStudent.js:69:55)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 5116
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 14:58:30,985 ERROR 19232 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 19232
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 15:00:19,192 ERROR 3688 [-/127.0.0.1/-/15ms GET /exam/student] nodejs.TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+    at assertPath (path.js:39:11)
+    at Object.join (path.js:434:7)
+    at jsonContent.forEach.value (D:\web\egg-exam\app\service\exam\examStudent.js:51:58)
+    at Array.forEach (<anonymous>)
+    at result.forEach.item (D:\web\egg-exam\app\service\exam\examStudent.js:48:25)
+    at Array.forEach (<anonymous>)
+    at ExamStudentService.getStudentExam (D:\web\egg-exam\app\service\exam\examStudent.js:44:16)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 3688
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 15:01:27,324 ERROR 19232 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 19232
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 15:01:29,311 ERROR 19232 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 19232
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 15:01:29,602 ERROR 19232 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 19232
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 15:01:30,956 ERROR 15880 [-/127.0.0.1/-/14ms GET /exam/student] nodejs.TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+    at assertPath (path.js:39:11)
+    at Object.join (path.js:434:7)
+    at jsonContent.forEach.value (D:\web\egg-exam\app\service\exam\examStudent.js:51:58)
+    at Array.forEach (<anonymous>)
+    at result.forEach.item (D:\web\egg-exam\app\service\exam\examStudent.js:48:25)
+    at Array.forEach (<anonymous>)
+    at ExamStudentService.getStudentExam (D:\web\egg-exam\app\service\exam\examStudent.js:44:16)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 15880
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 15:04:52,720 ERROR 19232 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 19232
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 15:06:58,690 ERROR 13648 [-/127.0.0.1/-/11ms GET /exam/student?page=2] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'page' in 'where clause'
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: SELECT * FROM `exam_student` WHERE `page` = '2' LIMIT 10, 10
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'page' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM `exam_student` WHERE `page` = '2' LIMIT 10, 10"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 13648
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 15:16:08,637 ERROR 11268 [-/127.0.0.1/-/14ms GET /exam/student?page=1&pageSize=1] nodejs.ReferenceError: pageSize is not defined
+    at ExamStudentService.getStudentExam (D:\web\egg-exam\app\service\exam\examStudent.js:38:9)
+    at ExamStudentController.index (D:\web\egg-exam\app\controller\exam\examStudent.js:16:56)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+
+pid: 11268
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 15:16:12,484 ERROR 7244 [-/127.0.0.1/-/8ms GET /exam/student?page=1&pageSize=1] nodejs.ReferenceError: pageSize is not defined
+    at ExamStudentService.getStudentExam (D:\web\egg-exam\app\service\exam\examStudent.js:38:9)
+    at ExamStudentController.index (D:\web\egg-exam\app\controller\exam\examStudent.js:16:56)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+
+pid: 7244
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 15:16:33,397 ERROR 4508 [-/127.0.0.1/-/11ms GET /exam/student?page=1&pageSize=1] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'page' in 'where clause'
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: SELECT * FROM `exam_student` WHERE `page` = '1' AND `pageSize` = '1'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'page' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM `exam_student` WHERE `page` = '1' AND `pageSize` = '1'"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 4508
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 15:20:24,222 ERROR 19232 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 19232
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 16:34:18,799 ERROR 19232 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 19232
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 16:38:16,991 ERROR 21072 [-/127.0.0.1/-/12ms GET /exam/student?page=10] nodejs.SyntaxError: Identifier 'result' has already been declared
+    at ExamStudentController.index (D:\web\egg-exam\app\controller\exam\examStudent.js:16:56)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 21072
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 16:39:00,676 ERROR 19232 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 19232
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 16:39:02,428 ERROR 20844 [-/127.0.0.1/-/8ms GET /exam/student?page=10] nodejs.TypeError: querys.map is not a function
+    at exports.getStudentExamList (D:\web\egg-exam\app\sql\exam.js:73:21)
+    at ExamStudentService.getStudentExam (D:\web\egg-exam\app\service\exam\examStudent.js:39:49)
+    at ExamStudentController.index (D:\web\egg-exam\app\controller\exam\examStudent.js:16:56)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+
+pid: 20844
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 16:41:05,159 ERROR 14464 [-/127.0.0.1/-/10ms GET /exam/student?page=10] nodejs.TypeError: querys.join is not a function
+    at exports.getStudentExamList (D:\web\egg-exam\app\sql\exam.js:77:27)
+    at ExamStudentService.getStudentExam (D:\web\egg-exam\app\service\exam\examStudent.js:39:49)
+    at ExamStudentController.index (D:\web\egg-exam\app\controller\exam\examStudent.js:16:56)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+
+pid: 14464
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 16:41:21,478 ERROR 19532 [-/127.0.0.1/-/9ms GET /exam/student?page=10] nodejs.ER_EMPTY_QUERYError: ER_EMPTY_QUERY: Query was empty
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: undefined
+code: "ER_EMPTY_QUERY"
+errno: 1065
+sqlMessage: "Query was empty"
+sqlState: "42000"
+index: 0
+sql: undefined
+name: "ER_EMPTY_QUERYError"
+pid: 19532
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 16:41:45,050 ERROR 19784 [-/127.0.0.1/-/10ms GET /exam/student?page=10] nodejs.ER_EMPTY_QUERYError: ER_EMPTY_QUERY: Query was empty
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: undefined
+code: "ER_EMPTY_QUERY"
+errno: 1065
+sqlMessage: "Query was empty"
+sqlState: "42000"
+index: 0
+sql: undefined
+name: "ER_EMPTY_QUERYError"
+pid: 19784
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 16:43:08,072 ERROR 17328 [-/127.0.0.1/-/10ms GET /exam/student?page=10] nodejs.ER_EMPTY_QUERYError: ER_EMPTY_QUERY: Query was empty
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: undefined
+code: "ER_EMPTY_QUERY"
+errno: 1065
+sqlMessage: "Query was empty"
+sqlState: "42000"
+index: 0
+sql: undefined
+name: "ER_EMPTY_QUERYError"
+pid: 17328
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 16:43:14,631 ERROR 2620 [-/127.0.0.1/-/14ms GET /exam/student?page=10] nodejs.ER_EMPTY_QUERYError: ER_EMPTY_QUERY: Query was empty
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: undefined
+code: "ER_EMPTY_QUERY"
+errno: 1065
+sqlMessage: "Query was empty"
+sqlState: "42000"
+index: 0
+sql: undefined
+name: "ER_EMPTY_QUERYError"
+pid: 2620
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 16:43:54,432 ERROR 22740 [-/127.0.0.1/-/11ms GET /exam/student?page=10] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'OFFSET 90 LIMIT 10' at line 4
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+SELECT 
+    *
+FROM
+    exam_student,
+    student
+WHERE
+    exam_student.student_id=student.student_id
+OFFSET 90 LIMIT 10
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'OFFSET 90 LIMIT 10' at line 4"
+sqlState: "42000"
+index: 0
+sql: "\nSELECT \n    *\nFROM\n    exam_student,\n    student\nWHERE\n    exam_student.student_id=student.student_id\nOFFSET 90 LIMIT 10"
+name: "ER_PARSE_ERRORError"
+pid: 22740
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 16:45:12,130 ERROR 21292 [-/127.0.0.1/-/13ms GET /exam/student?page=10] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'OFFSET 90, LIMIT 10' at line 4
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+SELECT 
+    *
+FROM
+    exam_student,
+    student
+WHERE
+    exam_student.student_id=student.student_id
+OFFSET 90, LIMIT 10
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'OFFSET 90, LIMIT 10' at line 4"
+sqlState: "42000"
+index: 0
+sql: "\nSELECT \n    *\nFROM\n    exam_student,\n    student\nWHERE\n    exam_student.student_id=student.student_id\nOFFSET 90, LIMIT 10"
+name: "ER_PARSE_ERRORError"
+pid: 21292
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 16:45:16,285 ERROR 13360 [-/127.0.0.1/-/10ms GET /exam/student?page=10] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'OFFSET 90, LIMIT 10' at line 4
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+SELECT 
+    *
+FROM
+    exam_student,
+    student
+WHERE
+    exam_student.student_id=student.student_id
+OFFSET 90, LIMIT 10
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'OFFSET 90, LIMIT 10' at line 4"
+sqlState: "42000"
+index: 0
+sql: "\nSELECT \n    *\nFROM\n    exam_student,\n    student\nWHERE\n    exam_student.student_id=student.student_id\nOFFSET 90, LIMIT 10"
+name: "ER_PARSE_ERRORError"
+pid: 13360
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 17:00:19,410 ERROR 10292 [-/127.0.0.1/-/2ms GET /exam/student/t27znv-gu7azm-qpq9ai-laaf9m] nodejs.ReferenceError: where is not defined
+    at ExamStudentService.getStudentExamDetail (D:\web\egg-exam\app\service\exam\examStudent.js:67:68)
+    at ExamStudentController.show (D:\web\egg-exam\app\controller\exam\examStudent.js:31:56)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+
+pid: 10292
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 17:01:04,321 ERROR 1864 [-/127.0.0.1/-/8ms GET /exam/student/t27znv-gu7azm-qpq9ai-laaf9m] nodejs.TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at exports.getStudentExamList (D:\web\egg-exam\app\sql\exam.js:80:16)
+    at ExamStudentService.getStudentExamDetail (D:\web\egg-exam\app\service\exam\examStudent.js:67:49)
+    at ExamStudentController.show (D:\web\egg-exam\app\controller\exam\examStudent.js:31:56)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+
+pid: 1864
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 17:02:46,182 ERROR 20876 [-/127.0.0.1/-/37ms GET /exam/student/t27znv-gu7azm-qpq9ai-laaf9m] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'exam_student.0' in 'where clause'
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+SELECT 
+    *
+FROM
+    exam_student,
+    student
+WHERE
+    exam_student.student_id=student.student_id
+
+AND
+exam_student.0="t"
+AND
+exam_student.1="2"
+AND
+exam_student.2="7"
+AND
+exam_student.3="z"
+AND
+exam_student.4="n"
+AND
+exam_student.5="v"
+AND
+exam_student.6="-"
+AND
+exam_student.7="g"
+AND
+exam_student.8="u"
+AND
+exam_student.9="7"
+AND
+exam_student.10="a"
+AND
+exam_student.11="z"
+AND
+exam_student.12="m"
+AND
+exam_student.13="-"
+AND
+exam_student.14="q"
+AND
+exam_student.15="p"
+AND
+exam_student.16="q"
+AND
+exam_student.17="9"
+AND
+exam_student.18="a"
+AND
+exam_student.19="i"
+AND
+exam_student.20="-"
+AND
+exam_student.21="l"
+AND
+exam_student.22="a"
+AND
+exam_student.23="a"
+AND
+exam_student.24="f"
+AND
+exam_student.25="9"
+AND
+exam_student.26="m"LIMIT 10 OFFSET 0
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'exam_student.0' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "\nSELECT \n    *\nFROM\n    exam_student,\n    student\nWHERE\n    exam_student.student_id=student.student_id\n\nAND\nexam_student.0=\"t\"\nAND\nexam_student.1=\"2\"\nAND\nexam_student.2=\"7\"\nAND\nexam_student.3=\"z\"\nAND\nexam_student.4=\"n\"\nAND\nexam_student.5=\"v\"\nAND\nexam_student.6=\"-\"\nAND\nexam_student.7=\"g\"\nAND\nexam_student.8=\"u\"\nAND\nexam_student.9=\"7\"\nAND\nexam_student.10=\"a\"\nAND\nexam_student.11=\"z\"\nAND\nexam_student.12=\"m\"\nAND\nexam_student.13=\"-\"\nAND\nexam_student.14=\"q\"\nAND\nexam_student.15=\"p\"\nAND\nexam_student.16=\"q\"\nAND\nexam_student.17=\"9\"\nAND\nexam_student.18=\"a\"\nAND\nexam_student.19=\"i\"\nAND\nexam_student.20=\"-\"\nAND\nexam_student.21=\"l\"\nAND\nexam_student.22=\"a\"\nAND\nexam_student.23=\"a\"\nAND\nexam_student.24=\"f\"\nAND\nexam_student.25=\"9\"\nAND\nexam_student.26=\"m\"LIMIT 10 OFFSET 0"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 20876
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 17:05:47,679 ERROR 19232 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 19232
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 21:07:40,421 ERROR 19232 nodejs.ClusterClientNoResponseError: client no response in 3405603ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 19232
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 21:44:50,863 ERROR 16480 [-/127.0.0.1/-/57ms PUT /exam/student/t27znv-gu7azm-qpq9ai-laaf9m] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `score` = 99' at line 1
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: UPDATE `exam_student` SET `score` = NULL, `status` = 1 WHERE `exam_student_id` = `exam_student_id` = 't27znv-gu7azm-qpq9ai-laaf9m', `score` = 99
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `score` = 99' at line 1"
+sqlState: "42000"
+index: 0
+sql: "UPDATE `exam_student` SET `score` = NULL, `status` = 1 WHERE `exam_student_id` = `exam_student_id` = 't27znv-gu7azm-qpq9ai-laaf9m', `score` = 99"
+name: "ER_PARSE_ERRORError"
+pid: 16480
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 21:57:27,105 ERROR 22520 [-/127.0.0.1/-/48ms POST /exam/exam] nodejs.ER_SP_UNDECLARED_VARError: ER_SP_UNDECLARED_VAR: Undeclared variable: undefined
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+ SELECT
+ questions.title AS title,
+ questions.questions_id AS questions_id,
+ questions.json_path AS json_path,
+ subject.subject_text AS subject_text,
+ subject.subject_id AS subject_id,
+ exam_type.exam_id AS exam_id,
+ exam_type.exam_name AS exam_name,
+ user.user_name AS user_name,
+ user.user_id AS user_id,
+ questions_types.questions_type_text as questions_type_text,
+ questions_types.questions_type_id as questions_type_id
+FROM
+ questions,
+ questions_types,
+ user,
+ subject,
+ exam_type
+WHERE
+ questions.user_id=user.user_id
+ And 
+ questions.subject_id=subject.subject_id
+ AND
+ questions.exam_id=exam_type.exam_id
+ AND
+ questions.questions_type_id=questions_types.questions_type_id
+ AND questions.subject_id='fqtktr-1lq5u' ORDER BY RAND() LIMIT undefined
+code: "ER_SP_UNDECLARED_VAR"
+errno: 1327
+sqlMessage: "Undeclared variable: undefined"
+sqlState: "42000"
+index: 0
+sql: "\n SELECT\n questions.title AS title,\n questions.questions_id AS questions_id,\n questions.json_path AS json_path,\n subject.subject_text AS subject_text,\n subject.subject_id AS subject_id,\n exam_type.exam_id AS exam_id,\n exam_type.exam_name AS exam_name,\n user.user_name AS user_name,\n user.user_id AS user_id,\n questions_types.questions_type_text as questions_type_text,\n questions_types.questions_type_id as questions_type_id\nFROM\n questions,\n questions_types,\n user,\n subject,\n exam_type\nWHERE\n questions.user_id=user.user_id\n And \n questions.subject_id=subject.subject_id\n AND\n questions.exam_id=exam_type.exam_id\n AND\n questions.questions_type_id=questions_types.questions_type_id\n AND questions.subject_id='fqtktr-1lq5u' ORDER BY RAND() LIMIT undefined"
+name: "ER_SP_UNDECLARED_VARError"
+pid: 22520
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 21:58:40,902 ERROR 22520 [-/127.0.0.1/-/5ms POST /exam/exam] nodejs.ER_SP_UNDECLARED_VARError: ER_SP_UNDECLARED_VAR: Undeclared variable: undefined
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+ SELECT
+ questions.title AS title,
+ questions.questions_id AS questions_id,
+ questions.json_path AS json_path,
+ subject.subject_text AS subject_text,
+ subject.subject_id AS subject_id,
+ exam_type.exam_id AS exam_id,
+ exam_type.exam_name AS exam_name,
+ user.user_name AS user_name,
+ user.user_id AS user_id,
+ questions_types.questions_type_text as questions_type_text,
+ questions_types.questions_type_id as questions_type_id
+FROM
+ questions,
+ questions_types,
+ user,
+ subject,
+ exam_type
+WHERE
+ questions.user_id=user.user_id
+ And 
+ questions.subject_id=subject.subject_id
+ AND
+ questions.exam_id=exam_type.exam_id
+ AND
+ questions.questions_type_id=questions_types.questions_type_id
+ AND questions.subject_id='fqtktr-1lq5u' ORDER BY RAND() LIMIT undefined
+code: "ER_SP_UNDECLARED_VAR"
+errno: 1327
+sqlMessage: "Undeclared variable: undefined"
+sqlState: "42000"
+index: 0
+sql: "\n SELECT\n questions.title AS title,\n questions.questions_id AS questions_id,\n questions.json_path AS json_path,\n subject.subject_text AS subject_text,\n subject.subject_id AS subject_id,\n exam_type.exam_id AS exam_id,\n exam_type.exam_name AS exam_name,\n user.user_name AS user_name,\n user.user_id AS user_id,\n questions_types.questions_type_text as questions_type_text,\n questions_types.questions_type_id as questions_type_id\nFROM\n questions,\n questions_types,\n user,\n subject,\n exam_type\nWHERE\n questions.user_id=user.user_id\n And \n questions.subject_id=subject.subject_id\n AND\n questions.exam_id=exam_type.exam_id\n AND\n questions.questions_type_id=questions_types.questions_type_id\n AND questions.subject_id='fqtktr-1lq5u' ORDER BY RAND() LIMIT undefined"
+name: "ER_SP_UNDECLARED_VARError"
+pid: 22520
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 21:58:50,508 ERROR 20820 [-/127.0.0.1/-/33ms POST /exam/exam] nodejs.ER_SP_UNDECLARED_VARError: ER_SP_UNDECLARED_VAR: Undeclared variable: undefined
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+ SELECT
+ questions.title AS title,
+ questions.questions_id AS questions_id,
+ questions.json_path AS json_path,
+ subject.subject_text AS subject_text,
+ subject.subject_id AS subject_id,
+ exam_type.exam_id AS exam_id,
+ exam_type.exam_name AS exam_name,
+ user.user_name AS user_name,
+ user.user_id AS user_id,
+ questions_types.questions_type_text as questions_type_text,
+ questions_types.questions_type_id as questions_type_id
+FROM
+ questions,
+ questions_types,
+ user,
+ subject,
+ exam_type
+WHERE
+ questions.user_id=user.user_id
+ And 
+ questions.subject_id=subject.subject_id
+ AND
+ questions.exam_id=exam_type.exam_id
+ AND
+ questions.questions_type_id=questions_types.questions_type_id
+ AND questions.subject_id='fqtktr-1lq5u' ORDER BY RAND() LIMIT undefined
+code: "ER_SP_UNDECLARED_VAR"
+errno: 1327
+sqlMessage: "Undeclared variable: undefined"
+sqlState: "42000"
+index: 0
+sql: "\n SELECT\n questions.title AS title,\n questions.questions_id AS questions_id,\n questions.json_path AS json_path,\n subject.subject_text AS subject_text,\n subject.subject_id AS subject_id,\n exam_type.exam_id AS exam_id,\n exam_type.exam_name AS exam_name,\n user.user_name AS user_name,\n user.user_id AS user_id,\n questions_types.questions_type_text as questions_type_text,\n questions_types.questions_type_id as questions_type_id\nFROM\n questions,\n questions_types,\n user,\n subject,\n exam_type\nWHERE\n questions.user_id=user.user_id\n And \n questions.subject_id=subject.subject_id\n AND\n questions.exam_id=exam_type.exam_id\n AND\n questions.questions_type_id=questions_types.questions_type_id\n AND questions.subject_id='fqtktr-1lq5u' ORDER BY RAND() LIMIT undefined"
+name: "ER_SP_UNDECLARED_VARError"
+pid: 20820
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 22:37:19,828 ERROR 19488 [-/127.0.0.1/-/39ms POST /exam/exam] nodejs.ReferenceError: ctx is not defined
+    at ExamService.insertExam (D:\web\egg-exam\app\service\exam\exam.js:50:37)
+    at ExamController.create (D:\web\egg-exam\app\controller\exam\exam.js:86:64)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 19488
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-12 22:38:22,916 ERROR 8364 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8364
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 02:48:27,854 ERROR 8364 nodejs.ClusterClientNoResponseError: client no response in 10816982ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 8364
+hostname: LAPTOP-QLQ71POJ
+

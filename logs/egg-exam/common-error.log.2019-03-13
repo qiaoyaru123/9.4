@@ -1,0 +1,510 @@
+2019-03-13 08:41:18,707 ERROR 8364 nodejs.ClusterClientNoResponseError: client no response in 21168987ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 8364
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 09:06:50,182 ERROR 8364 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8364
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 09:12:22,381 ERROR 21688 [-/127.0.0.1/-/74ms POST /exam/student] nodejs.ER_BAD_NULL_ERRORError: ER_BAD_NULL_ERROR: Column 'grade_id' cannot be null
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: INSERT INTO `exam_student`(`exam_exam_id`, `start_time`, `end_time`, `answer_json_path`, `exam_student_id`, `student_id`, `grade_id`) VALUES('w5tcy-g2dts', 1551863357534, 1551863357534, 'b55jfi-6e9tp5-bgym9p-8pe95i.json', 'b55jfi-6e9tp5-bgym9p-8pe95i', '456789', NULL)
+code: "ER_BAD_NULL_ERROR"
+errno: 1048
+sqlMessage: "Column 'grade_id' cannot be null"
+sqlState: "23000"
+index: 0
+sql: "INSERT INTO `exam_student`(`exam_exam_id`, `start_time`, `end_time`, `answer_json_path`, `exam_student_id`, `student_id`, `grade_id`) VALUES('w5tcy-g2dts', 1551863357534, 1551863357534, 'b55jfi-6e9tp5-bgym9p-8pe95i.json', 'b55jfi-6e9tp5-bgym9p-8pe95i', '456789', NULL)"
+name: "ER_BAD_NULL_ERRORError"
+pid: 21688
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 09:13:40,339 ERROR 8364 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8364
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 10:18:44,154 ERROR 8112 [-/127.0.0.1/-/6ms GET /student/info] nodejs.TypeError: this.service.exam.getStudentInfo is not a function
+    at UserController.info (D:\web\egg-exam\app\controller\student\user.js:63:44)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 8112
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 10:19:21,291 ERROR 8364 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8364
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 10:19:23,761 ERROR 24828 [-/127.0.0.1/-/21ms GET /student/info] nodejs.TypeError: this.service.user.getStudentInfo is not a function
+    at UserController.info (D:\web\egg-exam\app\controller\student\user.js:63:44)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 24828
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 10:23:33,695 ERROR 26268 [-/127.0.0.1/-/12ms GET /student/info] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`grade_id
+    AND
+    rood`.`room_id=grade`.`romm_id
+    AND
+    grade`.`subjec' at line 1
+    AND
+    rood`.`room_id=grade`.`romm_id
+    AND
+    grade`.`subjec' at line 1
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: SELECT * FROM `
+SELECT
+    *    
+FROM
+    student,
+    grade,
+    room,
+    exam_exam
+WHERE
+    student`.`grade_id=grade`.`grade_id
+    AND
+    rood`.`room_id=grade`.`romm_id
+    AND
+    grade`.`subject_id=exam_exam`.`subject_id
+    AND
+    exam_exam`.`status=1
+
+AND
+student`.`student_id=456789`
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`grade_id\n    AND\n    rood`.`room_id=grade`.`romm_id\n    AND\n    grade`.`subjec' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM `\nSELECT\n    *    \nFROM\n    student,\n    grade,\n    room,\n    exam_exam\nWHERE\n    student`.`grade_id=grade`.`grade_id\n    AND\n    rood`.`room_id=grade`.`romm_id\n    AND\n    grade`.`subject_id=exam_exam`.`subject_id\n    AND\n    exam_exam`.`status=1\n\nAND\nstudent`.`student_id=456789`"
+name: "ER_PARSE_ERRORError"
+pid: 26268
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 10:24:30,142 ERROR 20468 [-/127.0.0.1/-/11ms GET /student/info] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`grade_id
+    AND
+    rood`.`room_id=grade`.`romm_id
+    AND
+    grade`.`subjec' at line 1
+    AND
+    rood`.`room_id=grade`.`romm_id
+    AND
+    grade`.`subjec' at line 1
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: SELECT * FROM `
+SELECT
+    *    
+FROM
+    student,
+    grade,
+    room,
+    exam_exam
+WHERE
+    student`.`grade_id=grade`.`grade_id
+    AND
+    rood`.`room_id=grade`.`romm_id
+    AND
+    grade`.`subject_id=exam_exam`.`subject_id
+    AND
+    exam_exam`.`status=1
+ 
+AND
+ student`.`student_id=456789`
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`grade_id\n    AND\n    rood`.`room_id=grade`.`romm_id\n    AND\n    grade`.`subjec' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM `\nSELECT\n    *    \nFROM\n    student,\n    grade,\n    room,\n    exam_exam\nWHERE\n    student`.`grade_id=grade`.`grade_id\n    AND\n    rood`.`room_id=grade`.`romm_id\n    AND\n    grade`.`subject_id=exam_exam`.`subject_id\n    AND\n    exam_exam`.`status=1\n \nAND\n student`.`student_id=456789`"
+name: "ER_PARSE_ERRORError"
+pid: 20468
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 11:08:16,564 ERROR 8896 [-/127.0.0.1/-/11ms GET /student/info] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`grade_id
+    AND
+    rood`.`room_id=grade`.`romm_id
+    AND
+    grade`.`subjec' at line 1
+    AND
+    rood`.`room_id=grade`.`romm_id
+    AND
+    grade`.`subjec' at line 1
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: SELECT * FROM `
+SELECT
+    *    
+FROM
+    student,
+    grade,
+    room,
+    exam_exam
+WHERE
+    student`.`grade_id=grade`.`grade_id
+    AND
+    rood`.`room_id=grade`.`romm_id
+    AND
+    grade`.`subject_id=exam_exam`.`subject_id
+    AND
+    exam_exam`.`status=1
+ 
+AND
+ student`.`student_id=456789`
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`grade_id\n    AND\n    rood`.`room_id=grade`.`romm_id\n    AND\n    grade`.`subjec' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM `\nSELECT\n    *    \nFROM\n    student,\n    grade,\n    room,\n    exam_exam\nWHERE\n    student`.`grade_id=grade`.`grade_id\n    AND\n    rood`.`room_id=grade`.`romm_id\n    AND\n    grade`.`subject_id=exam_exam`.`subject_id\n    AND\n    exam_exam`.`status=1\n \nAND\n student`.`student_id=456789`"
+name: "ER_PARSE_ERRORError"
+pid: 8896
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 11:09:39,965 ERROR 17668 [-/127.0.0.1/-/10ms GET /student/info] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'rood.room_id' in 'where clause'
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+SELECT
+    *    
+FROM
+    student,
+    grade,
+    room,
+    exam_exam
+WHERE
+    student.grade_id=grade.grade_id
+    AND
+    rood.room_id=grade.romm_id
+    AND
+    grade.subject_id=exam_exam.subject_id
+    AND
+    exam_exam.status=1
+ 
+AND
+ student.student_id=456789
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'rood.room_id' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "\nSELECT\n    *    \nFROM\n    student,\n    grade,\n    room,\n    exam_exam\nWHERE\n    student.grade_id=grade.grade_id\n    AND\n    rood.room_id=grade.romm_id\n    AND\n    grade.subject_id=exam_exam.subject_id\n    AND\n    exam_exam.status=1\n \nAND\n student.student_id=456789"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 17668
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 11:10:08,382 ERROR 17368 [-/127.0.0.1/-/16ms GET /student/info] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'grade.romm_id' in 'where clause'
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+SELECT
+    *    
+FROM
+    student,
+    grade,
+    room,
+    exam_exam
+WHERE
+    student.grade_id=grade.grade_id
+    AND
+    room.room_id=grade.romm_id
+    AND
+    grade.subject_id=exam_exam.subject_id
+    AND
+    exam_exam.status=1
+ 
+AND
+ student.student_id=456789
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'grade.romm_id' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "\nSELECT\n    *    \nFROM\n    student,\n    grade,\n    room,\n    exam_exam\nWHERE\n    student.grade_id=grade.grade_id\n    AND\n    room.room_id=grade.romm_id\n    AND\n    grade.subject_id=exam_exam.subject_id\n    AND\n    exam_exam.status=1\n \nAND\n student.student_id=456789"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 17368
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 11:10:14,902 ERROR 24248 [-/127.0.0.1/-/9ms GET /student/info] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'grade.romm_id' in 'where clause'
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+SELECT
+    *    
+FROM
+    student,
+    grade,
+    room,
+    exam_exam
+WHERE
+    student.grade_id=grade.grade_id
+    AND
+    room.room_id=grade.romm_id
+    AND
+    grade.subject_id=exam_exam.subject_id
+    AND
+    exam_exam.status=1
+ 
+AND
+ student.student_id=456789
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'grade.romm_id' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "\nSELECT\n    *    \nFROM\n    student,\n    grade,\n    room,\n    exam_exam\nWHERE\n    student.grade_id=grade.grade_id\n    AND\n    room.room_id=grade.romm_id\n    AND\n    grade.subject_id=exam_exam.subject_id\n    AND\n    exam_exam.status=1\n \nAND\n student.student_id=456789"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 24248
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 13:54:19,081 ERROR 8364 nodejs.ClusterClientNoResponseError: client no response in 318674ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 8364
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 14:55:24,577 ERROR 8364 nodejs.ClusterClientNoResponseError: client no response in 3383438ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 8364
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 17:23:32,645 ERROR 8364 nodejs.ClusterClientNoResponseError: client no response in 1285660ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 8364
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 17:55:29,607 ERROR 8364 nodejs.ClusterClientNoResponseError: client no response in 1915967ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 8364
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 18:30:06,504 ERROR 8364 nodejs.ClusterClientNoResponseError: client no response in 74711ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 8364
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 18:35:24,665 ERROR 8364 nodejs.ClusterClientNoResponseError: client no response in 257342ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 8364
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-13 22:39:11,603 ERROR 8364 nodejs.ClusterClientNoResponseError: client no response in 10814885ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 8364
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-14 08:28:45,846 ERROR 8364 nodejs.ClusterClientNoResponseError: client no response in 35373663ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 8364
+hostname: LAPTOP-QLQ71POJ
+

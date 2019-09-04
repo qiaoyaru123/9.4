@@ -1,0 +1,842 @@
+2019-03-04 08:25:47,558 ERROR 5112 nodejs.ClusterClientNoResponseError: client no response in 23484934ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 5112
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 09:19:49,847 ERROR 5112 nodejs.ClusterClientNoResponseError: client no response in 110376ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 5112
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 10:21:43,606 ERROR 5112 nodejs.ClusterClientNoResponseError: client no response in 1832131ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 5112
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 10:41:35,604 ERROR 5112 nodejs.ClusterClientNoResponseError: client no response in 268788ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 5112
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 11:29:56,387 ERROR 496 [-/127.0.0.1/-/11ms POST /user/setIdentityApi] nodejs.TypeError: Cannot destructure property `user_id` of 'undefined' or 'null'.
+    at D:\web\egg-exam\app\middleware\checkIdentity.js:7:29
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\app\middleware\checkLogin.js:16:15
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\app\middleware\singlePage.js:9:19
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\web\egg-exam\node_modules\_koa-static-cache@5.1.2@koa-static-cache\index.js:51:69
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at rangeMiddleware (D:\web\egg-exam\node_modules\_egg-static@2.2.0@egg-static\app\middleware\static.js:23:12)
+
+pid: 496
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 11:54:46,588 ERROR 18044 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18044
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 12:04:20,319 ERROR 18044 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18044
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 12:05:23,391 ERROR 18044 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18044
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 12:42:14,912 ERROR 18208 [-/127.0.0.1/-/25ms GET /exam/exam/new?subject_id=1psw2b-cy7o07] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'fqtktr' in 'where clause'
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+ SELECT
+ questions.title AS title,
+ questions.questions_id AS questions_id,
+ questions.json_path AS json_path,
+ subject.subject_text AS subject_text,
+ subject.subject_id AS subject_id,
+ exam_type.exam_id AS exam_id,
+ exam_type.exam_name AS exam_name,
+ user.user_name AS user_name,
+ user.user_id AS user_id,
+ questions_types.questions_type_text as questions_type_text,
+ questions_types.questions_type_id as questions_type_id
+FROM
+ questions,
+ questions_types,
+ user,
+ subject,
+ exam_type
+WHERE
+ questions.user_id=user.user_id
+ And 
+ questions.subject_id=subject.subject_id
+ AND
+ questions.exam_id=exam_type.exam_id
+ AND
+ questions.questions_type_id=questions_types.questions_type_id
+ AND questions.subject_id in (fqtktr-1lq5u,wl5yk-38c0g,8tl7os-r49tld,1ux00o6-2xbj5i,4pu32-vs796l,1psw2b-cy7o07)
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'fqtktr' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "\n SELECT\n questions.title AS title,\n questions.questions_id AS questions_id,\n questions.json_path AS json_path,\n subject.subject_text AS subject_text,\n subject.subject_id AS subject_id,\n exam_type.exam_id AS exam_id,\n exam_type.exam_name AS exam_name,\n user.user_name AS user_name,\n user.user_id AS user_id,\n questions_types.questions_type_text as questions_type_text,\n questions_types.questions_type_id as questions_type_id\nFROM\n questions,\n questions_types,\n user,\n subject,\n exam_type\nWHERE\n questions.user_id=user.user_id\n And \n questions.subject_id=subject.subject_id\n AND\n questions.exam_id=exam_type.exam_id\n AND\n questions.questions_type_id=questions_types.questions_type_id\n AND questions.subject_id in (fqtktr-1lq5u,wl5yk-38c0g,8tl7os-r49tld,1ux00o6-2xbj5i,4pu32-vs796l,1psw2b-cy7o07)"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 18208
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 12:44:10,976 ERROR 8392 [-/127.0.0.1/-/23ms GET /exam/exam/new?subject_id=1psw2b-cy7o07] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'fqtktr' in 'where clause'
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+ SELECT
+ questions.title AS title,
+ questions.questions_id AS questions_id,
+ questions.json_path AS json_path,
+ subject.subject_text AS subject_text,
+ subject.subject_id AS subject_id,
+ exam_type.exam_id AS exam_id,
+ exam_type.exam_name AS exam_name,
+ user.user_name AS user_name,
+ user.user_id AS user_id,
+ questions_types.questions_type_text as questions_type_text,
+ questions_types.questions_type_id as questions_type_id
+FROM
+ questions,
+ questions_types,
+ user,
+ subject,
+ exam_type
+WHERE
+ questions.user_id=user.user_id
+ And 
+ questions.subject_id=subject.subject_id
+ AND
+ questions.exam_id=exam_type.exam_id
+ AND
+ questions.questions_type_id=questions_types.questions_type_id
+ AND questions.subject_id in (fqtktr-1lq5u,wl5yk-38c0g,8tl7os-r49tld,1ux00o6-2xbj5i,4pu32-vs796l,1psw2b-cy7o07)
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'fqtktr' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "\n SELECT\n questions.title AS title,\n questions.questions_id AS questions_id,\n questions.json_path AS json_path,\n subject.subject_text AS subject_text,\n subject.subject_id AS subject_id,\n exam_type.exam_id AS exam_id,\n exam_type.exam_name AS exam_name,\n user.user_name AS user_name,\n user.user_id AS user_id,\n questions_types.questions_type_text as questions_type_text,\n questions_types.questions_type_id as questions_type_id\nFROM\n questions,\n questions_types,\n user,\n subject,\n exam_type\nWHERE\n questions.user_id=user.user_id\n And \n questions.subject_id=subject.subject_id\n AND\n questions.exam_id=exam_type.exam_id\n AND\n questions.questions_type_id=questions_types.questions_type_id\n AND questions.subject_id in (fqtktr-1lq5u,wl5yk-38c0g,8tl7os-r49tld,1ux00o6-2xbj5i,4pu32-vs796l,1psw2b-cy7o07)"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 8392
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 12:44:44,702 ERROR 18448 [-/127.0.0.1/-/19ms GET /exam/exam/new?subject_id=1psw2b-cy7o07] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'fqtktr' in 'where clause'
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+ SELECT
+ questions.title AS title,
+ questions.questions_id AS questions_id,
+ questions.json_path AS json_path,
+ subject.subject_text AS subject_text,
+ subject.subject_id AS subject_id,
+ exam_type.exam_id AS exam_id,
+ exam_type.exam_name AS exam_name,
+ user.user_name AS user_name,
+ user.user_id AS user_id,
+ questions_types.questions_type_text as questions_type_text,
+ questions_types.questions_type_id as questions_type_id
+FROM
+ questions,
+ questions_types,
+ user,
+ subject,
+ exam_type
+WHERE
+ questions.user_id=user.user_id
+ And 
+ questions.subject_id=subject.subject_id
+ AND
+ questions.exam_id=exam_type.exam_id
+ AND
+ questions.questions_type_id=questions_types.questions_type_id
+ AND questions.subject_id in (fqtktr-1lq5u,wl5yk-38c0g,8tl7os-r49tld,1ux00o6-2xbj5i,4pu32-vs796l,1psw2b-cy7o07)
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'fqtktr' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "\n SELECT\n questions.title AS title,\n questions.questions_id AS questions_id,\n questions.json_path AS json_path,\n subject.subject_text AS subject_text,\n subject.subject_id AS subject_id,\n exam_type.exam_id AS exam_id,\n exam_type.exam_name AS exam_name,\n user.user_name AS user_name,\n user.user_id AS user_id,\n questions_types.questions_type_text as questions_type_text,\n questions_types.questions_type_id as questions_type_id\nFROM\n questions,\n questions_types,\n user,\n subject,\n exam_type\nWHERE\n questions.user_id=user.user_id\n And \n questions.subject_id=subject.subject_id\n AND\n questions.exam_id=exam_type.exam_id\n AND\n questions.questions_type_id=questions_types.questions_type_id\n AND questions.subject_id in (fqtktr-1lq5u,wl5yk-38c0g,8tl7os-r49tld,1ux00o6-2xbj5i,4pu32-vs796l,1psw2b-cy7o07)"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 18448
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 13:12:01,528 ERROR 8116 [-/127.0.0.1/-/898ms GET /exam/exam/new?subject_id=1psw2b-cy7o07] nodejs.TypeError: Cannot read property 'randomExam' of undefined
+    at ExamController.new (D:\web\egg-exam\app\controller\exam\exam.js:37:35)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 8116
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 13:12:25,624 ERROR 14512 [-/127.0.0.1/-/357ms GET /exam/exam/new?subject_id=1psw2b-cy7o07] nodejs.TypeError: Cannot read property 'randomExam' of undefined
+    at ExamController.new (D:\web\egg-exam\app\controller\exam\exam.js:37:35)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 14512
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 13:14:36,945 ERROR 10024 [-/127.0.0.1/-/291ms GET /exam/exam/new?subject_id=1psw2b-cy7o07] nodejs.TypeError: Cannot read property 'randomExam' of undefined
+    at ExamController.new (D:\web\egg-exam\app\controller\exam\exam.js:37:35)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 10024
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 13:16:27,659 ERROR 16392 [-/127.0.0.1/-/320ms GET /exam/exam/new?subject_id=1psw2b-cy7o07] nodejs.TypeError: Cannot read property 'randomExam' of undefined
+    at ExamController.new (D:\web\egg-exam\app\controller\exam\exam.js:38:35)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 16392
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 13:16:55,738 ERROR 8060 [-/127.0.0.1/-/24ms GET /exam/exam/new?subject_id=1psw2b-cy7o07] nodejs.TypeError: Cannot read property 'randomExam' of undefined
+    at ExamController.new (D:\web\egg-exam\app\controller\exam\exam.js:38:35)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 8060
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 13:27:46,965 ERROR 18044 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18044
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 14:16:29,871 ERROR 8200 nodejs.ClusterClientNoResponseError: client no response in 897449ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 8200
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 17:25:30,775 ERROR 8200 nodejs.ClusterClientNoResponseError: client no response in 8962745ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 8200
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-04 17:42:14,145 ERROR 8200 nodejs.ClusterClientNoResponseError: client no response in 101197ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 8200
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-06 17:12:47,737 ERROR 24684 [-/127.0.0.1/-/13ms GET /exam/exam/new?subject_id=1psw2b-cy7o07&class_id=1605A&start_time=1551863357534&end_time=1551863357534] nodejs.TypeError: getSubjectQuestions is not a function
+    at ExamService.getSubjectQuestion (D:\web\egg-exam\app\service\exam\exam.js:63:52)
+    at ExamController.new (D:\web\egg-exam\app\controller\exam\exam.js:40:54)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+
+pid: 24684
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-06 17:13:38,332 ERROR 3480 [-/127.0.0.1/-/6ms GET /exam/exam/new?subject_id=1psw2b-cy7o07&class_id=1605A&start_time=1551863357534&end_time=1551863357534] nodejs.TypeError: getSubjectQuestions is not a function
+    at ExamService.getSubjectQuestion (D:\web\egg-exam\app\service\exam\exam.js:63:52)
+    at ExamController.new (D:\web\egg-exam\app\controller\exam\exam.js:40:54)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+
+pid: 3480
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-06 17:19:25,133 ERROR 6980 [-/127.0.0.1/-/5ms GET /exam/exam/new?subject_id=1psw2b-cy7o07&class_id=1605A&start_time=1551863357534&end_time=1551863357534] nodejs.TypeError: this.service.exam.exam.getSubjectQuestion is not a function
+    at ExamController.new (D:\web\egg-exam\app\controller\exam\exam.js:40:54)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 6980
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-06 17:20:26,193 ERROR 18208 [-/127.0.0.1/-/9ms GET /exam/exam/new?subject_id=1psw2b-cy7o07&class_id=1605A&start_time=1551863357534&end_time=1551863357534] nodejs.ReferenceError: getRandomQuestions is not defined
+    at ExamService.getSubjectQuestions (D:\web\egg-exam\app\service\exam\exam.js:63:46)
+    at ExamController.new (D:\web\egg-exam\app\controller\exam\exam.js:40:54)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+
+pid: 18208
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-06 17:21:15,295 ERROR 14464 [-/127.0.0.1/-/17ms GET /exam/exam/new?subject_id=1psw2b-cy7o07&class_id=1605A&start_time=1551863357534&end_time=1551863357534] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column '1psw2b' in 'where clause'
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+ SELECT
+ questions.title AS title,
+ questions.questions_id AS questions_id,
+ questions.json_path AS json_path,
+ subject.subject_text AS subject_text,
+ subject.subject_id AS subject_id,
+ exam_type.exam_id AS exam_id,
+ exam_type.exam_name AS exam_name,
+ user.user_name AS user_name,
+ user.user_id AS user_id,
+ questions_types.questions_type_text as questions_type_text,
+ questions_types.questions_type_id as questions_type_id
+FROM
+ questions,
+ questions_types,
+ user,
+ subject,
+ exam_type
+WHERE
+ questions.user_id=user.user_id
+ And 
+ questions.subject_id=subject.subject_id
+ AND
+ questions.exam_id=exam_type.exam_id
+ AND
+ questions.questions_type_id=questions_types.questions_type_id
+ AND questions.subject_id = 1psw2b-cy7o07 ORDER BY RAND() LIMIT 5
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column '1psw2b' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "\n SELECT\n questions.title AS title,\n questions.questions_id AS questions_id,\n questions.json_path AS json_path,\n subject.subject_text AS subject_text,\n subject.subject_id AS subject_id,\n exam_type.exam_id AS exam_id,\n exam_type.exam_name AS exam_name,\n user.user_name AS user_name,\n user.user_id AS user_id,\n questions_types.questions_type_text as questions_type_text,\n questions_types.questions_type_id as questions_type_id\nFROM\n questions,\n questions_types,\n user,\n subject,\n exam_type\nWHERE\n questions.user_id=user.user_id\n And \n questions.subject_id=subject.subject_id\n AND\n questions.exam_id=exam_type.exam_id\n AND\n questions.questions_type_id=questions_types.questions_type_id\n AND questions.subject_id = 1psw2b-cy7o07 ORDER BY RAND() LIMIT 5"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 14464
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-06 17:21:22,969 ERROR 13496 [-/127.0.0.1/-/9ms GET /exam/exam/new?subject_id=1psw2b-cy7o07&class_id=1605A&start_time=1551863357534&end_time=1551863357534] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column '1psw2b' in 'where clause'
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+ SELECT
+ questions.title AS title,
+ questions.questions_id AS questions_id,
+ questions.json_path AS json_path,
+ subject.subject_text AS subject_text,
+ subject.subject_id AS subject_id,
+ exam_type.exam_id AS exam_id,
+ exam_type.exam_name AS exam_name,
+ user.user_name AS user_name,
+ user.user_id AS user_id,
+ questions_types.questions_type_text as questions_type_text,
+ questions_types.questions_type_id as questions_type_id
+FROM
+ questions,
+ questions_types,
+ user,
+ subject,
+ exam_type
+WHERE
+ questions.user_id=user.user_id
+ And 
+ questions.subject_id=subject.subject_id
+ AND
+ questions.exam_id=exam_type.exam_id
+ AND
+ questions.questions_type_id=questions_types.questions_type_id
+ AND questions.subject_id = 1psw2b-cy7o07 ORDER BY RAND() LIMIT 5
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column '1psw2b' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "\n SELECT\n questions.title AS title,\n questions.questions_id AS questions_id,\n questions.json_path AS json_path,\n subject.subject_text AS subject_text,\n subject.subject_id AS subject_id,\n exam_type.exam_id AS exam_id,\n exam_type.exam_name AS exam_name,\n user.user_name AS user_name,\n user.user_id AS user_id,\n questions_types.questions_type_text as questions_type_text,\n questions_types.questions_type_id as questions_type_id\nFROM\n questions,\n questions_types,\n user,\n subject,\n exam_type\nWHERE\n questions.user_id=user.user_id\n And \n questions.subject_id=subject.subject_id\n AND\n questions.exam_id=exam_type.exam_id\n AND\n questions.questions_type_id=questions_types.questions_type_id\n AND questions.subject_id = 1psw2b-cy7o07 ORDER BY RAND() LIMIT 5"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 13496
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-06 17:21:59,709 ERROR 17800 [-/127.0.0.1/-/9ms GET /exam/exam/new?subject_id=1psw2b-cy7o07&class_id=1605A&start_time=1551863357534&end_time=1551863357534] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column '1psw2b' in 'where clause'
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: 
+ SELECT
+ questions.title AS title,
+ questions.questions_id AS questions_id,
+ questions.json_path AS json_path,
+ subject.subject_text AS subject_text,
+ subject.subject_id AS subject_id,
+ exam_type.exam_id AS exam_id,
+ exam_type.exam_name AS exam_name,
+ user.user_name AS user_name,
+ user.user_id AS user_id,
+ questions_types.questions_type_text as questions_type_text,
+ questions_types.questions_type_id as questions_type_id
+FROM
+ questions,
+ questions_types,
+ user,
+ subject,
+ exam_type
+WHERE
+ questions.user_id=user.user_id
+ And 
+ questions.subject_id=subject.subject_id
+ AND
+ questions.exam_id=exam_type.exam_id
+ AND
+ questions.questions_type_id=questions_types.questions_type_id
+ AND questions.subject_id=1psw2b-cy7o07 ORDER BY RAND() LIMIT 5
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column '1psw2b' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "\n SELECT\n questions.title AS title,\n questions.questions_id AS questions_id,\n questions.json_path AS json_path,\n subject.subject_text AS subject_text,\n subject.subject_id AS subject_id,\n exam_type.exam_id AS exam_id,\n exam_type.exam_name AS exam_name,\n user.user_name AS user_name,\n user.user_id AS user_id,\n questions_types.questions_type_text as questions_type_text,\n questions_types.questions_type_id as questions_type_id\nFROM\n questions,\n questions_types,\n user,\n subject,\n exam_type\nWHERE\n questions.user_id=user.user_id\n And \n questions.subject_id=subject.subject_id\n AND\n questions.exam_id=exam_type.exam_id\n AND\n questions.questions_type_id=questions_types.questions_type_id\n AND questions.subject_id=1psw2b-cy7o07 ORDER BY RAND() LIMIT 5"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 17800
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-06 20:03:19,099 ERROR 23180 nodejs.ClusterClientNoResponseError: client no response in 3510053ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 23180
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-06 20:52:30,511 ERROR 23180 nodejs.ClusterClientNoResponseError: client no response in 2369685ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 23180
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-06 21:07:49,495 ERROR 23180 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 23180
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-06 21:41:52,173 ERROR 22428 [-/127.0.0.1/-/32ms POST /exam/exam?subject_id=fqtktr-1lq5u&exam_id=8sc5d7-7p5f9e-cb2zii-ahe5i&start_time=1551863357534&end_time=1551863357534] nodejs.ReferenceError: result is not defined
+    at ExamController.create (D:\web\egg-exam\app\controller\exam\exam.js:46:48)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 22428
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-06 22:11:25,818 ERROR 16740 [-/127.0.0.1/-/40ms PUT /exam/exam/w5tcy-g2dts] nodejs.TypeError: Cannot read property 'id' of undefined
+    at ExamController.update (D:\web\egg-exam\app\controller\exam\exam.js:58:45)
+    at Object.callFn (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\web\egg-exam\node_modules\_egg-core@4.14.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\web\egg-exam\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\web\egg-exam\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 16740
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-07 08:17:08,454 ERROR 1824 [-/127.0.0.1/-/5ms PUT /exam/exam/w5tcy-g2dts] nodejs.Error: Can not auto detect update condition, please set options.where, or make sure obj.id exists
+    at RDSClient.proto.update (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:151:13)
+    at proto.update.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    at new Promise (<anonymous>)
+    at RDSClient.co (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:50:10)
+    at RDSClient.createPromise [as update] (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:30:15)
+    at ExamService.updateExam (D:\web\egg-exam\app\service\exam\exam.js:101:43)
+    at process._tickCallback (internal/process/next_tick.js:178:7)
+
+pid: 1824
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-07 08:20:03,042 ERROR 16252 [-/127.0.0.1/-/25ms PUT /exam/exam/w5tcy-g2dts] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column '0' in 'field list'
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: UPDATE `exam_exam` SET `0` = `exam_exam_id` = 'vucdmp-6n8n', `subject_id` = 'fqtktr-1lq5u', `start_time` = '1551863357534', `end_time` = '1551863357534', `question_ids` = 'msqy4g-icp0zt-nrwi6q-ypmct,65vst-tqms-h5kg6-rfabwg,83nd9t-3126tf-zoa4o9-n1l4pr,krkyz9-lmbb1f-yxn2e-t5q8a,yw91la-o5xtg-m98u9-1y0y7', `user_id` = '', `status` = -1, `description` = NULL, `exam_type` = '8sc5d7-7p5f9e-cb2zii-ahe5i', `1` = `exam_exam_id` = 'w5tcy-g2dts', `subject_id` = 'fqtktr-1lq5u', `start_time` = '1551863357534', `end_time` = '1551863357534', `question_ids` = 'c3i1t-ay2k4s-esahyn-023sc4,msqy4g-icp0zt-nrwi6q-ypmct,yw91la-o5xtg-m98u9-1y0y7,msq6d-lfrm4o-ljkv1-cool79,li8wiv-0pzz7vh-kwds5-9oqawu', `user_id` = '', `status` = -1, `description` = NULL, `exam_type` = '8sc5d7-7p5f9e-cb2zii-ahe5i', `question_ids` = '11231331_11111111111111111111_22222222222222222_wwwwwwwwwwwwwww_aaaaaaaaaaaa', `status` = 0 WHERE `exam_exam_id` = 'w5tcy-g2dts'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column '0' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "UPDATE `exam_exam` SET `0` = `exam_exam_id` = 'vucdmp-6n8n', `subject_id` = 'fqtktr-1lq5u', `start_time` = '1551863357534', `end_time` = '1551863357534', `question_ids` = 'msqy4g-icp0zt-nrwi6q-ypmct,65vst-tqms-h5kg6-rfabwg,83nd9t-3126tf-zoa4o9-n1l4pr,krkyz9-lmbb1f-yxn2e-t5q8a,yw91la-o5xtg-m98u9-1y0y7', `user_id` = '', `status` = -1, `description` = NULL, `exam_type` = '8sc5d7-7p5f9e-cb2zii-ahe5i', `1` = `exam_exam_id` = 'w5tcy-g2dts', `subject_id` = 'fqtktr-1lq5u', `start_time` = '1551863357534', `end_time` = '1551863357534', `question_ids` = 'c3i1t-ay2k4s-esahyn-023sc4,msqy4g-icp0zt-nrwi6q-ypmct,yw91la-o5xtg-m98u9-1y0y7,msq6d-lfrm4o-ljkv1-cool79,li8wiv-0pzz7vh-kwds5-9oqawu', `user_id` = '', `status` = -1, `description` = NULL, `exam_type` = '8sc5d7-7p5f9e-cb2zii-ahe5i', `question_ids` = '11231331_11111111111111111111_22222222222222222_wwwwwwwwwwwwwww_aaaaaaaaaaaa', `status` = 0 WHERE `exam_exam_id` = 'w5tcy-g2dts'"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 16252
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-07 08:20:49,020 ERROR 26140 [-/127.0.0.1/-/51ms PUT /exam/exam/w5tcy-g2dts] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column '0' in 'field list'
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: UPDATE `exam_exam` SET `0` = `exam_exam_id` = 'vucdmp-6n8n', `subject_id` = 'fqtktr-1lq5u', `start_time` = '1551863357534', `end_time` = '1551863357534', `question_ids` = 'msqy4g-icp0zt-nrwi6q-ypmct,65vst-tqms-h5kg6-rfabwg,83nd9t-3126tf-zoa4o9-n1l4pr,krkyz9-lmbb1f-yxn2e-t5q8a,yw91la-o5xtg-m98u9-1y0y7', `user_id` = '', `status` = -1, `description` = NULL, `exam_type` = '8sc5d7-7p5f9e-cb2zii-ahe5i', `1` = `exam_exam_id` = 'w5tcy-g2dts', `subject_id` = 'fqtktr-1lq5u', `start_time` = '1551863357534', `end_time` = '1551863357534', `question_ids` = 'c3i1t-ay2k4s-esahyn-023sc4,msqy4g-icp0zt-nrwi6q-ypmct,yw91la-o5xtg-m98u9-1y0y7,msq6d-lfrm4o-ljkv1-cool79,li8wiv-0pzz7vh-kwds5-9oqawu', `user_id` = '', `status` = -1, `description` = NULL, `exam_type` = '8sc5d7-7p5f9e-cb2zii-ahe5i', `question_ids` = '11231331_11111111111111111111_22222222222222222_wwwwwwwwwwwwwww_aaaaaaaaaaaa', `status` = 0 WHERE `exam_exam_id` = 'w5tcy-g2dts'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column '0' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "UPDATE `exam_exam` SET `0` = `exam_exam_id` = 'vucdmp-6n8n', `subject_id` = 'fqtktr-1lq5u', `start_time` = '1551863357534', `end_time` = '1551863357534', `question_ids` = 'msqy4g-icp0zt-nrwi6q-ypmct,65vst-tqms-h5kg6-rfabwg,83nd9t-3126tf-zoa4o9-n1l4pr,krkyz9-lmbb1f-yxn2e-t5q8a,yw91la-o5xtg-m98u9-1y0y7', `user_id` = '', `status` = -1, `description` = NULL, `exam_type` = '8sc5d7-7p5f9e-cb2zii-ahe5i', `1` = `exam_exam_id` = 'w5tcy-g2dts', `subject_id` = 'fqtktr-1lq5u', `start_time` = '1551863357534', `end_time` = '1551863357534', `question_ids` = 'c3i1t-ay2k4s-esahyn-023sc4,msqy4g-icp0zt-nrwi6q-ypmct,yw91la-o5xtg-m98u9-1y0y7,msq6d-lfrm4o-ljkv1-cool79,li8wiv-0pzz7vh-kwds5-9oqawu', `user_id` = '', `status` = -1, `description` = NULL, `exam_type` = '8sc5d7-7p5f9e-cb2zii-ahe5i', `question_ids` = '11231331_11111111111111111111_22222222222222222_wwwwwwwwwwwwwww_aaaaaaaaaaaa', `status` = 0 WHERE `exam_exam_id` = 'w5tcy-g2dts'"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 26140
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-07 08:21:00,143 ERROR 24328 [-/127.0.0.1/-/44ms PUT /exam/exam/w5tcy-g2dts] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column '0' in 'field list'
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: UPDATE `exam_exam` SET `0` = `exam_exam_id` = 'vucdmp-6n8n', `subject_id` = 'fqtktr-1lq5u', `start_time` = '1551863357534', `end_time` = '1551863357534', `question_ids` = 'msqy4g-icp0zt-nrwi6q-ypmct,65vst-tqms-h5kg6-rfabwg,83nd9t-3126tf-zoa4o9-n1l4pr,krkyz9-lmbb1f-yxn2e-t5q8a,yw91la-o5xtg-m98u9-1y0y7', `user_id` = '', `status` = -1, `description` = NULL, `exam_type` = '8sc5d7-7p5f9e-cb2zii-ahe5i', `1` = `exam_exam_id` = 'w5tcy-g2dts', `subject_id` = 'fqtktr-1lq5u', `start_time` = '1551863357534', `end_time` = '1551863357534', `question_ids` = 'c3i1t-ay2k4s-esahyn-023sc4,msqy4g-icp0zt-nrwi6q-ypmct,yw91la-o5xtg-m98u9-1y0y7,msq6d-lfrm4o-ljkv1-cool79,li8wiv-0pzz7vh-kwds5-9oqawu', `user_id` = '', `status` = -1, `description` = NULL, `exam_type` = '8sc5d7-7p5f9e-cb2zii-ahe5i', `question_ids` = '11231331_11111111111111111111_22222222222222222_wwwwwwwwwwwwwww_aaaaaaaaaaaa', `status` = 0 WHERE `exam_exam_id` = 'w5tcy-g2dts'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column '0' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "UPDATE `exam_exam` SET `0` = `exam_exam_id` = 'vucdmp-6n8n', `subject_id` = 'fqtktr-1lq5u', `start_time` = '1551863357534', `end_time` = '1551863357534', `question_ids` = 'msqy4g-icp0zt-nrwi6q-ypmct,65vst-tqms-h5kg6-rfabwg,83nd9t-3126tf-zoa4o9-n1l4pr,krkyz9-lmbb1f-yxn2e-t5q8a,yw91la-o5xtg-m98u9-1y0y7', `user_id` = '', `status` = -1, `description` = NULL, `exam_type` = '8sc5d7-7p5f9e-cb2zii-ahe5i', `1` = `exam_exam_id` = 'w5tcy-g2dts', `subject_id` = 'fqtktr-1lq5u', `start_time` = '1551863357534', `end_time` = '1551863357534', `question_ids` = 'c3i1t-ay2k4s-esahyn-023sc4,msqy4g-icp0zt-nrwi6q-ypmct,yw91la-o5xtg-m98u9-1y0y7,msq6d-lfrm4o-ljkv1-cool79,li8wiv-0pzz7vh-kwds5-9oqawu', `user_id` = '', `status` = -1, `description` = NULL, `exam_type` = '8sc5d7-7p5f9e-cb2zii-ahe5i', `question_ids` = '11231331_11111111111111111111_22222222222222222_wwwwwwwwwwwwwww_aaaaaaaaaaaa', `status` = 0 WHERE `exam_exam_id` = 'w5tcy-g2dts'"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 24328
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-07 08:21:28,107 ERROR 10736 [-/127.0.0.1/-/39ms PUT /exam/exam/w5tcy-g2dts] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column '0' in 'field list'
+    at Query.Sequence._packetToError (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Connection.js:502:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:280:12)
+    at readableAddChunk (_stream_readable.js:265:11)
+    --------------------
+    at Pool.query (D:\web\egg-exam\node_modules\_mysql@2.16.0@mysql\lib\Pool.js:199:23)
+    at D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (D:\web\egg-exam\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (D:\web\egg-exam\node_modules\_ali-rds@3.3.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:65:19)
+    at D:\web\egg-exam\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: UPDATE `exam_exam` SET `0` = `exam_exam_id` = 'vucdmp-6n8n', `subject_id` = 'fqtktr-1lq5u', `start_time` = '1551863357534', `end_time` = '1551863357534', `question_ids` = 'msqy4g-icp0zt-nrwi6q-ypmct,65vst-tqms-h5kg6-rfabwg,83nd9t-3126tf-zoa4o9-n1l4pr,krkyz9-lmbb1f-yxn2e-t5q8a,yw91la-o5xtg-m98u9-1y0y7', `user_id` = '', `status` = -1, `description` = NULL, `exam_type` = '8sc5d7-7p5f9e-cb2zii-ahe5i', `1` = `exam_exam_id` = 'w5tcy-g2dts', `subject_id` = 'fqtktr-1lq5u', `start_time` = '1551863357534', `end_time` = '1551863357534', `question_ids` = 'c3i1t-ay2k4s-esahyn-023sc4,msqy4g-icp0zt-nrwi6q-ypmct,yw91la-o5xtg-m98u9-1y0y7,msq6d-lfrm4o-ljkv1-cool79,li8wiv-0pzz7vh-kwds5-9oqawu', `user_id` = '', `status` = -1, `description` = NULL, `exam_type` = '8sc5d7-7p5f9e-cb2zii-ahe5i', `question_ids` = '11231331_11111111111111111111_22222222222222222_wwwwwwwwwwwwwww_aaaaaaaaaaaa', `status` = 0 WHERE `exam_exam_id` = 'w5tcy-g2dts'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column '0' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "UPDATE `exam_exam` SET `0` = `exam_exam_id` = 'vucdmp-6n8n', `subject_id` = 'fqtktr-1lq5u', `start_time` = '1551863357534', `end_time` = '1551863357534', `question_ids` = 'msqy4g-icp0zt-nrwi6q-ypmct,65vst-tqms-h5kg6-rfabwg,83nd9t-3126tf-zoa4o9-n1l4pr,krkyz9-lmbb1f-yxn2e-t5q8a,yw91la-o5xtg-m98u9-1y0y7', `user_id` = '', `status` = -1, `description` = NULL, `exam_type` = '8sc5d7-7p5f9e-cb2zii-ahe5i', `1` = `exam_exam_id` = 'w5tcy-g2dts', `subject_id` = 'fqtktr-1lq5u', `start_time` = '1551863357534', `end_time` = '1551863357534', `question_ids` = 'c3i1t-ay2k4s-esahyn-023sc4,msqy4g-icp0zt-nrwi6q-ypmct,yw91la-o5xtg-m98u9-1y0y7,msq6d-lfrm4o-ljkv1-cool79,li8wiv-0pzz7vh-kwds5-9oqawu', `user_id` = '', `status` = -1, `description` = NULL, `exam_type` = '8sc5d7-7p5f9e-cb2zii-ahe5i', `question_ids` = '11231331_11111111111111111111_22222222222222222_wwwwwwwwwwwwwww_aaaaaaaaaaaa', `status` = 0 WHERE `exam_exam_id` = 'w5tcy-g2dts'"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 10736
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-07 08:34:29,192 ERROR 21140 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 21140
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-07 10:07:46,544 ERROR 21140 nodejs.ClusterClientNoResponseError: client no response in 645022ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 21140
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-07 10:23:11,798 ERROR 21140 nodejs.ClusterClientNoResponseError: client no response in 123203ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 21140
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-07 12:10:09,294 ERROR 21140 nodejs.ClusterClientNoResponseError: client no response in 6377482ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 21140
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-07 15:22:50,657 ERROR 21140 nodejs.ClusterClientNoResponseError: client no response in 6760279ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 21140
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-07 20:16:57,598 ERROR 21140 nodejs.ClusterClientNoResponseError: client no response in 10808047ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 21140
+hostname: LAPTOP-QLQ71POJ
+
+2019-03-08 07:46:52,301 ERROR 21140 nodejs.ClusterClientNoResponseError: client no response in 41392355ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\web\egg-exam\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:427:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ClusterClientNoResponseError"
+pid: 21140
+hostname: LAPTOP-QLQ71POJ
+
